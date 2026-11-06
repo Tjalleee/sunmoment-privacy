@@ -2,7 +2,7 @@
 
 # Datenschutzerklärung SunMoment (Deutsch)
 
-*Zuletzt aktualisiert: 4. November 2026*
+*Zuletzt aktualisiert: 6. November 2026*
 
 SunMoment ist eine App für Haushalte mit Solaranlage oder Balkonkraftwerk. Sie zeigt, wann dein Dach genug Strom für deine Geräte liefert. Kurz gesagt: **Die App nutzt fast keine Daten, und wir können keine davon lesen, außer du schickst sie uns selbst.** Verbindest du deinen Haushalt, speichert ein kleines Skript von uns euer gemeinsames Protokoll, verschlüsselt. Wir können es nicht lesen.
 
@@ -13,6 +13,8 @@ Fragen zum Datenschutz: gala.apps11@gmail.com.
 
 ## Was auf deinem Handy bleibt
 Sprache und Land, der gewählte Ort, deine Module, Ausrichtung und Neigung, deine Geräte und Timer-Einstellungen, deine Antworten auf „Hat die Vorhersage gestern gestimmt?“, selbst eingetragene Tageserträge, deine „Gestartet“-Häkchen (außer du verbindest deinen Haushalt, siehe unten) und die zuletzt geladene Vorhersage. Ohne Netzanschluss (Inselanlage) bleiben auch deine Batterie, dein Verbrauch pro Tag und der Batteriestand, den du eingibst, auf deinem Handy. Es gibt **kein Konto**. Die App fragt nicht nach Name, E-Mail-Adresse, Adresse oder Telefonnummer, nutzt kein GPS und enthält keine Werbung und keine Analyse- oder Tracking-Software. Auf Android sind Cloud-Sicherung und Übertragung auf ein neues Handy für diese App **ausgeschaltet**. Auf iPhone und iPad nimmt iOS die Daten der App in deine eigene Sicherung (iCloud oder dein Computer) auf, wenn du sie eingeschaltet hast. Diese Sicherung verwaltest du zusammen mit Apple; wir haben keinen Zugriff darauf. Neues Handy? Dann richtest du die App in einer Minute neu ein.
+
+**Kamera** (nur bei „Code scannen“): Die App nutzt die Kamera, um den Kopplungscode eines Haushaltsmitglieds zu lesen. Das geschieht auf deinem Handy; es wird kein Foto gespeichert oder gesendet.
 
 ## Was dein Handy verlässt, und warum
 

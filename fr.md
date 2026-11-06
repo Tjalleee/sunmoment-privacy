@@ -2,7 +2,7 @@
 
 # Politique de confidentialité SunMoment (français)
 
-*Dernière mise à jour : 4 novembre 2026*
+*Dernière mise à jour : 6 novembre 2026*
 
 SunMoment est une appli pour les foyers équipés de panneaux solaires. Elle vous indique quand votre toit produit assez d’électricité pour vos appareils. En bref : **l’appli n’utilise presque aucune donnée, et nous ne pouvons rien en lire, sauf ce que vous nous envoyez vous-même.** Si vous reliez votre foyer, un petit script à nous garde votre journal commun, chiffré. Nous ne pouvons pas le lire.
 
@@ -13,6 +13,8 @@ Questions sur la confidentialité : gala.apps11@gmail.com.
 
 ## Ce qui reste sur votre téléphone
 Votre langue et votre pays, la ville choisie, vos panneaux, l’orientation et l’inclinaison de votre toit, vos appareils et vos réglages de départ différé, vos réponses à « La prévision d’hier était-elle juste ? », les productions du jour que vous saisissez, vos coches « Lancé » (sauf si vous reliez votre foyer, voir plus bas) et la dernière prévision téléchargée. Sans raccordement au réseau (mode autonome), votre batterie, votre consommation par jour et le niveau de batterie que vous saisissez restent aussi sur votre téléphone. Il n’y a **pas de compte** : l’appli ne demande ni nom, ni e-mail, ni adresse, ni numéro de téléphone, n’utilise pas le GPS, et ne contient ni publicité ni logiciel d’analyse ou de suivi. Sur Android, la sauvegarde dans le cloud et le transfert vers un autre téléphone sont **désactivés** pour cette appli. Sur iPhone et iPad, iOS inclut les données de l’appli dans votre propre sauvegarde (iCloud ou votre ordinateur), si vous l’avez activée. Cette sauvegarde est gérée par vous et par Apple ; nous n’y avons pas accès. Nouveau téléphone ? Vous configurez l’appli à nouveau en une minute.
+
+**Caméra** (seulement avec « Scanner le code ») : l’appli utilise la caméra pour lire le code de liaison d’un membre de votre foyer. Cela se passe sur votre téléphone ; aucune photo n’est enregistrée ni envoyée.
 
 ## Ce qui quitte votre téléphone, et pourquoi
 

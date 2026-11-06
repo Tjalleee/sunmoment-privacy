@@ -2,7 +2,7 @@
 
 # SunMoment privatumo politika (lietuvių)
 
-*Paskutinį kartą atnaujinta: 2026 m. lapkričio 4 d.*
+*Paskutinį kartą atnaujinta: 2026 m. lapkričio 6 d.*
 
 SunMoment – tai programėlė namų ūkiams su saulės moduliais. Ji jums praneša, kada jūsų stogas pagamina pakankamai elektros jūsų prietaisams. Trumpai: **programėlė beveik nenaudoja duomenų, ir mes negalime jų perskaityti, nebent patys juos mums atsiųstumėte.** Jei susiejate namiškius, nedidelis mūsų scenarijus saugo jūsų bendrą žurnalą, užšifruotą. Mes jo perskaityti negalime.
 
@@ -13,6 +13,8 @@ Klausimai dėl privatumo: gala.apps11@gmail.com.
 
 ## Kas lieka jūsų telefone
 Jūsų kalba ir šalis, pasirinkta vietovė, moduliai, stogo kryptis ir polinkis, prietaisai ir laikmačio nustatymai, jūsų atsakymai į klausimą „Ar vakarykštė prognozė pasitvirtino?“, jūsų įvesta dienos gamyba, jūsų žymos „Įjungta“ (nebent susiejate namiškius, žr. toliau) ir paskutinė atsisiųsta prognozė. Jei naudojate autonominę sistemą (be tinklo), telefone lieka ir jūsų akumuliatoriaus duomenys, paros suvartojimas ir įvesta akumuliatoriaus įkrova. **Paskyros nėra**; programėlė neklausia vardo, el. pašto, adreso ar telefono numerio, nenaudoja GPS ir neturi reklamų, analitikos ar sekimo programinės įrangos. Android telefonuose atsarginė kopija debesyje ir perkėlimas iš telefono į telefoną šiai programėlei **išjungti**. iPhone ir iPad įrenginiuose iOS įtraukia programėlės duomenis į jūsų pačių atsarginę kopiją (iCloud arba jūsų kompiuteryje), jei ją esate įjungę. Tą atsarginę kopiją tvarkote jūs ir Apple; mes prie jos prieigos neturime. Naujas telefonas? Programėlę iš naujo nustatysite per minutę.
+
+**Kamera** (tik paspaudus „Nuskaityti kodą“): programėlė naudoja kamerą, kad nuskaitytų namiškio susiejimo kodą. Tai vyksta jūsų telefone; jokia nuotrauka neišsaugoma ir nesiunčiama.
 
 ## Kas palieka jūsų telefoną ir kodėl
 

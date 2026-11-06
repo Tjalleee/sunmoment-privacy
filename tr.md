@@ -2,7 +2,7 @@
 
 # SunMoment Gizlilik Politikası (Türkçe)
 
-*Son güncelleme: 4 Kasım 2026*
+*Son güncelleme: 6 Kasım 2026*
 
 SunMoment, güneş paneli olan haneler için bir uygulamadır. Çatınızın cihazlarınız için ne zaman yeterli elektrik ürettiğini söyler. Kısaca: **uygulama neredeyse hiç veri kullanmaz ve siz kendiniz göndermedikçe hiçbirini okuyamayız.** Ev halkınızı bağlarsanız, küçük bir betiğimiz ortak kaydınızı şifrelenmiş olarak saklar. Biz onu okuyamayız.
 
@@ -13,6 +13,8 @@ Gizlilik soruları: gala.apps11@gmail.com.
 
 ## Telefonunuzda kalanlar
 Diliniz ve ülkeniz, seçtiğiniz yer, paneller, çatı yönü ve eğimi, cihazlar ve zamanlayıcı ayarları, "Dünkü tahmin doğru muydu?" sorusuna verdiğiniz cevaplar, girdiğiniz günlük üretimler, "Başlatıldı" işaretleriniz (ev halkınızı bağlamadıysanız, aşağıya bakın) ve en son indirilen tahmin. Şebekeden bağımsız kullanımda bataryanız, günlük tüketiminiz ve girdiğiniz batarya seviyesi de telefonunuzda kalır. **Hesap yoktur**; uygulama ad, e-posta, adres veya telefon numarası sormaz, GPS kullanmaz, reklam ve analiz ya da izleme yazılımı içermez. Android'de bu uygulama için bulut yedekleme ve telefondan telefona aktarım **kapalıdır**. iPhone ve iPad'de, yedeklemeyi açtıysanız iOS uygulamanın verilerini kendi yedeğinize (iCloud veya bilgisayarınız) dahil eder. Bu yedeği siz ve Apple yönetirsiniz; bizim ona erişimimiz yoktur. Yeni telefon mu? Uygulamayı yeniden kurmak bir dakika sürer.
+
+**Kamera** (yalnızca "Kodu tara" ile): uygulama, ev halkınızdan birinin bağlantı kodunu okumak için kamerayı kullanır. Bu, telefonunuzda gerçekleşir; hiçbir fotoğraf saklanmaz veya gönderilmez.
 
 ## Telefonunuzdan çıkanlar ve nedeni
 

@@ -2,7 +2,7 @@
 
 # SunMoment adatvédelmi tájékoztató (magyar)
 
-*Utolsó frissítés: 2026. november 4.*
+*Utolsó frissítés: 2026. november 6.*
 
 A SunMoment napelemes háztartásoknak szóló app. Megmondja, mikor termel a tetőd elég áramot a gépeidhez. Röviden: **az app szinte semmilyen adatot nem használ, és semmit sem tudunk elolvasni belőle, hacsak te magad el nem küldöd nekünk.** Ha összekapcsolod a háztartásodat, egy kis szkriptünk titkosítva tárolja a közös naplótokat. Mi nem tudjuk elolvasni.
 
@@ -13,6 +13,8 @@ Adatvédelmi kérdések: gala.apps11@gmail.com.
 
 ## Mi marad a telefonodon
 A nyelved és az országod, a választott település, a panelek, a tető tájolása és dőlésszöge, a gépek és az időzítő beállításai, a válaszaid a „Bevált a tegnapi előrejelzés?” kérdésre, a megadott napi termelés, a „Bekapcsolva” jelöléseid (hacsak nem kapcsolod össze a háztartásodat, lásd lent), és a legutóbb letöltött előrejelzés. Szigetüzemben (hálózat nélkül) az akkumulátorod, a napi fogyasztásod és a megadott töltöttségi szint is a telefonodon marad. **Nincs fiók**; az app nem kér nevet, e-mail-címet, lakcímet vagy telefonszámot, nem használ GPS-t, és nincs benne reklám, sem elemző vagy követő szoftver. Androidon a felhőmentés és a telefonról telefonra való átvitel ennél az appnál **ki van kapcsolva**. iPhone-on és iPaden az iOS az app adatait is beleteszi a saját biztonsági mentésedbe (iCloud vagy a számítógéped), ha bekapcsoltad. Ezt a mentést te és az Apple kezelitek; mi nem férünk hozzá. Új telefon? Az app újbóli beállítása egy percig tart.
+
+**Kamera** (csak a „Kód beolvasása” gombnál): az app a kamerával olvassa be egy háztartásodbeli személy párosító kódját. Ez a telefonodon történik; az app nem ment és nem küld el fényképet.
 
 ## Mi hagyja el a telefonodat, és miért
 

@@ -2,7 +2,7 @@
 
 # Política de Privacidade do SunMoment (português)
 
-*Última atualização: 4 de novembro de 2026*
+*Última atualização: 6 de novembro de 2026*
 
 O SunMoment é uma app para famílias com painéis solares. Diz-lhe quando o seu telhado produz eletricidade suficiente para os seus aparelhos. Resposta curta: **a app quase não usa dados, e não conseguimos ler nenhum deles, a não ser que seja o próprio a enviá-los.** Se ligar a sua família, um pequeno script nosso guarda o vosso registo partilhado, encriptado. Nós não o conseguimos ler.
 
@@ -13,6 +13,8 @@ Questões de privacidade: gala.apps11@gmail.com.
 
 ## O que fica no seu telemóvel
 A sua língua e o seu país, a localidade escolhida, os painéis, a orientação e a inclinação do telhado, os aparelhos e as definições do temporizador, as suas respostas a "A previsão de ontem estava certa?", as produções diárias que introduz, as suas marcações "Ligado" (a não ser que ligue a sua família, ver abaixo) e a última previsão descarregada. No modo off-grid, a sua bateria, o seu consumo diário e o nível da bateria que introduz também ficam no seu telemóvel. **Não há conta**; a app não pede nome, e-mail, morada nem número de telefone, não usa GPS e não contém anúncios nem software de análise ou de rastreio. No Android, a cópia de segurança na nuvem e a transferência entre telemóveis estão **desativadas** para esta app. No iPhone e no iPad, o iOS inclui os dados da app na sua própria cópia de segurança (iCloud ou o seu computador), se a tiver ativada. Essa cópia de segurança é gerida por si e pela Apple; nós não temos acesso a ela. Telemóvel novo? Configurar a app de novo demora um minuto.
+
+**Câmara** (só em "Ler o código"): a app usa a câmara para ler o código de ligação de alguém da sua família. Isso acontece no seu telemóvel; nenhuma fotografia é guardada nem enviada.
 
 ## O que sai do seu telemóvel, e porquê
 

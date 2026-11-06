@@ -2,7 +2,7 @@
 
 # Privacyverklaring SunMoment
 
-*Laatst bijgewerkt: 4 november 2026*
+*Laatst bijgewerkt: 6 november 2026*
 
 SunMoment is een app voor huishoudens met zonnepanelen. De app vertelt wanneer je dak genoeg stroom levert voor je apparaten. Het korte antwoord: **de app gebruikt bijna geen gegevens, en wij kunnen niets ervan lezen, behalve wat je ons zelf stuurt.** Koppel je huisgenoten, dan bewaart een klein script van ons jullie logboek, versleuteld. Wij kunnen dat niet lezen.
 
@@ -19,6 +19,8 @@ E-mail voor vragen over privacy: gala.apps11@gmail.com.
 - de laatst opgehaalde weersverwachting (zodat de app ook zonder internet werkt).
 
 Er is **geen account**. De app vraagt geen naam, e-mailadres, adres of telefoonnummer, gebruikt geen GPS, en bevat geen advertenties en geen volg- of analysesoftware. Op Android staan back-up in de cloud en overzetten naar een nieuwe telefoon voor deze app **uit**. Op iPhone en iPad neemt iOS de gegevens van de app mee in je eigen back-up (iCloud of je computer), als je die aan hebt. Die back-up beheren jij en Apple; wij kunnen er niet bij. Nieuwe telefoon? Dan stel je de app in een minuut opnieuw in.
+
+**Camera** (alleen bij "Scan de code"): de app gebruikt de camera om de koppelcode van een huisgenoot te lezen. Dat gebeurt op je telefoon; er wordt geen foto bewaard of verstuurd.
 
 ## Wat gaat er naar buiten, en waarom?
 

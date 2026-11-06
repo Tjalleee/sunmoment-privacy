@@ -2,7 +2,7 @@
 
 # Privatlivspolitik for SunMoment (dansk)
 
-*Senest opdateret: 4. november 2026*
+*Senest opdateret: 6. november 2026*
 
 SunMoment er en app til husstande med solceller. Den fortæller dig, hvornår dit tag producerer nok strøm til dine apparater. Det korte svar: **appen bruger næsten ingen data, og vi kan ikke læse noget af det, medmindre du selv sender det til os.** Forbinder du din husstand, gemmer et lille script fra os jeres fælles logbog, krypteret. Vi kan ikke læse den.
 
@@ -13,6 +13,8 @@ Spørgsmål om privatliv: gala.apps11@gmail.com.
 
 ## Hvad bliver på din telefon
 Dit sprog og land, den by, du har valgt, dine paneler, tagets retning og hældning, dine apparater og timerindstillinger, dine svar på »Passede gårsdagens vejrudsigt?«, den dagsproduktion, du selv skriver ind, dine »Startet«-flueben (undtagen hvis du forbinder din husstand, se nedenfor) og den senest hentede vejrudsigt. Er du off-grid, bliver dit batteri, dit forbrug pr. dag og den batteristand, du indtaster, også på din telefon. Der er **ingen konto**. Appen spørger ikke om navn, e-mail, adresse eller telefonnummer, bruger ikke GPS og indeholder ingen reklamer og ingen analyse- eller sporingssoftware. På Android er backup i skyen og overførsel fra telefon til telefon **slået fra** for denne app. På iPhone og iPad tager iOS appens data med i din egen backup (iCloud eller din computer), hvis du har slået den til. Den backup styrer du og Apple; vi har ikke adgang til den. Ny telefon? Så sætter du appen op igen på et minut.
+
+**Kamera** (kun ved »Scan koden«): appen bruger kameraet til at læse koblingskoden fra en i din husstand. Det sker på din telefon; der bliver ikke gemt eller sendt noget foto.
 
 ## Hvad forlader din telefon, og hvorfor
 

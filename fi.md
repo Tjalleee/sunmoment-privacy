@@ -2,7 +2,7 @@
 
 # Tietosuojaseloste SunMoment (suomi)
 
-*Päivitetty viimeksi: 4. marraskuuta 2026*
+*Päivitetty viimeksi: 6. marraskuuta 2026*
 
 SunMoment on sovellus kotitalouksille, joilla on aurinkopaneelit. Se kertoo, milloin katoltasi tulee tarpeeksi sähköä laitteillesi. Lyhyesti: **sovellus käyttää tuskin lainkaan tietoja, emmekä voi lukea niistä mitään, ellet itse lähetä niitä meille.** Jos yhdistät kotiväkesi, pieni skriptimme säilyttää yhteisen lokinne salattuna. Emme voi lukea sitä.
 
@@ -13,6 +13,8 @@ Tietosuojakysymykset: gala.apps11@gmail.com.
 
 ## Mitä jää puhelimeesi
 Kielesi ja maasi, valitsemasi paikkakunta, paneelit, katon suunta ja kaltevuus, laitteet ja ajastinasetukset, vastauksesi kysymykseen ”Osuiko eilinen ennuste?”, syöttämäsi päivätuotot, ”Käynnistetty”-merkintäsi (paitsi jos yhdistät kotiväkesi, katso alla) sekä viimeksi ladattu ennuste. Off-grid-tilassa myös akkusi, kulutuksesi päivässä ja syöttämäsi akun varaustaso pysyvät puhelimessasi. **Tiliä ei ole**; sovellus ei kysy nimeä, sähköpostia, osoitetta eikä puhelinnumeroa, ei käytä GPS:ää, eikä siinä ole mainoksia eikä analytiikka- tai seurantaohjelmistoja. Androidissa pilvivarmuuskopiointi ja siirto puhelimesta toiseen ovat tässä sovelluksessa **pois päältä**. iPhonessa ja iPadissa iOS ottaa sovelluksen tiedot mukaan omaan varmuuskopioosi (iCloud tai tietokoneesi), jos varmuuskopiointi on päällä. Sitä varmuuskopiota hallitset sinä ja Apple; meillä ei ole siihen pääsyä. Uusi puhelin? Sovelluksen asettaminen uudelleen vie minuutin.
+
+**Kamera** (vain kohdassa ”Skannaa koodi”): sovellus käyttää kameraa lukeakseen kotiväkeesi kuuluvan henkilön yhdistämiskoodin. Tämä tapahtuu puhelimessasi; valokuvaa ei tallenneta eikä lähetetä.
 
 ## Mitä lähtee puhelimestasi, ja miksi
 

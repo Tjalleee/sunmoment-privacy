@@ -2,7 +2,7 @@
 
 # Polityka prywatności SunMoment (polski)
 
-*Ostatnia aktualizacja: 4 listopada 2026*
+*Ostatnia aktualizacja: 6 listopada 2026*
 
 SunMoment to aplikacja dla gospodarstw domowych z panelami słonecznymi. Mówi ci, kiedy twój dach daje dość prądu dla twoich urządzeń. W skrócie: **aplikacja nie używa prawie żadnych danych, a my nie możemy odczytać żadnych z nich, chyba że sam nam je wyślesz.** Jeśli połączysz domowników, nasz mały skrypt przechowuje wasz wspólny dziennik, zaszyfrowany. Nie możemy go odczytać.
 
@@ -13,6 +13,8 @@ Pytania dotyczące prywatności: gala.apps11@gmail.com.
 
 ## Co zostaje w twoim telefonie
 Twój język i kraj, wybrana miejscowość, panele, kierunek i nachylenie dachu, urządzenia i ustawienia timera, twoje odpowiedzi na pytanie „Czy wczorajsza prognoza się sprawdziła?”, wpisane przez ciebie dzienne produkcje, twoje oznaczenia „Włączone” (chyba że połączysz domowników, patrz niżej) oraz ostatnio pobrana prognoza. W trybie off-grid w telefonie zostają też twój akumulator, dzienne zużycie i wpisany przez ciebie poziom naładowania. **Nie ma konta**; aplikacja nie pyta o imię, e-mail, adres ani numer telefonu, nie używa GPS i nie zawiera reklam ani oprogramowania analitycznego czy śledzącego. Na Androidzie kopia zapasowa w chmurze i przenoszenie z telefonu na telefon są dla tej aplikacji **wyłączone**. Na iPhonie i iPadzie iOS dołącza dane aplikacji do twojej własnej kopii zapasowej (iCloud lub komputer), jeśli ją włączyłeś. Tą kopią zarządzasz ty i Apple; my nie mamy do niej dostępu. Nowy telefon? Ponowne ustawienie aplikacji zajmuje minutę.
+
+**Aparat** (tylko przy „Zeskanuj kod”): aplikacja używa aparatu, aby odczytać kod do połączenia od domownika. Dzieje się to na twoim telefonie; żadne zdjęcie nie jest zapisywane ani wysyłane.
 
 ## Co opuszcza twój telefon i dlaczego
 

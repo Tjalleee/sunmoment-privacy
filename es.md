@@ -2,7 +2,7 @@
 
 # Política de privacidad de SunMoment (español)
 
-*Última actualización: 4 de noviembre de 2026*
+*Última actualización: 6 de noviembre de 2026*
 
 SunMoment es una app para hogares con placas solares. Te dice cuándo tu tejado produce suficiente electricidad para tus electrodomésticos. En resumen: **la app usa casi ningún dato, y no podemos leer ninguno, salvo lo que tú mismo nos envíes.** Si conectas tu hogar, un pequeño script nuestro guarda vuestro registro común, cifrado. No podemos leerlo.
 
@@ -13,6 +13,8 @@ Preguntas sobre privacidad: gala.apps11@gmail.com.
 
 ## Lo que se queda en tu teléfono
 Tu idioma y tu país, la localidad elegida, las placas, la orientación y la inclinación del tejado, los electrodomésticos y su programación, tus respuestas a «¿Acertó la previsión de ayer?», las producciones diarias que introduces, tus marcas de «En marcha» (salvo que conectes tu hogar, ver más abajo) y la última previsión descargada. En modo aislado (sin red), también se quedan en tu teléfono tu batería, tu consumo diario y el nivel de batería que introduces. **No hay cuenta**: la app no pide nombre, correo electrónico, dirección ni número de teléfono, no usa el GPS y no contiene anuncios ni software de análisis o seguimiento. En Android, la copia de seguridad en la nube y la transferencia de un teléfono a otro están **desactivadas** para esta app. En iPhone y iPad, iOS incluye los datos de la app en tu propia copia de seguridad (iCloud o tu ordenador), si la tienes activada. Esa copia la gestionáis tú y Apple; nosotros no tenemos acceso a ella. ¿Teléfono nuevo? Volver a configurar la app lleva un minuto.
+
+**Cámara** (solo con «Escanear el código»): la app usa la cámara para leer el código para conectar de alguien de tu hogar. Eso ocurre en tu teléfono; no se guarda ni se envía ninguna foto.
 
 ## Lo que sale de tu teléfono, y por qué
 

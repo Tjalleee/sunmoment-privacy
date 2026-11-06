@@ -2,7 +2,7 @@
 
 # Zásady ochrany osobních údajů SunMoment (čeština)
 
-*Naposledy aktualizováno: 4. listopadu 2026*
+*Naposledy aktualizováno: 6. listopadu 2026*
 
 SunMoment je aplikace pro domácnosti se solárními panely. Řekne vám, kdy vaše střecha vyrábí dost elektřiny pro vaše spotřebiče. Stručně: **aplikace používá téměř žádná data a nic z nich nemůžeme číst, pokud nám je sami nepošlete.** Když propojíte domácnost, náš malý skript uchovává váš sdílený záznam, šifrovaně. Nemůžeme ho číst.
 
@@ -13,6 +13,8 @@ Dotazy k ochraně osobních údajů: gala.apps11@gmail.com.
 
 ## Co zůstává ve vašem telefonu
 Váš jazyk a země, zvolené místo, panely, orientace a sklon střechy, spotřebiče a nastavení časovače, vaše odpovědi na „Seděla včerejší předpověď?“, denní výroba, kterou zadáte, vaše označení „Zapnuto“ (pokud nepropojíte domácnost, viz níže) a poslední stažená předpověď. V ostrovním režimu (bez sítě) zůstávají v telefonu i vaše baterie, denní spotřeba a stav baterie, který zadáte. Neexistuje **žádný účet**; aplikace se neptá na jméno, e-mail, adresu ani telefonní číslo, nepoužívá GPS a neobsahuje žádné reklamy ani analytický či sledovací software. V Androidu jsou zálohování do cloudu a přenos z telefonu do telefonu pro tuto aplikaci **vypnuté**. Na iPhonu a iPadu zahrne iOS data aplikace do vaší vlastní zálohy (iCloud nebo počítač), pokud ji máte zapnutou. Tuto zálohu spravujete vy a Apple; my k ní přístup nemáme. Nový telefon? Nastavit aplikaci znovu zabere minutu.
+
+**Fotoaparát** (jen u „Naskenovat kód“): aplikace používá fotoaparát ke čtení párovacího kódu od člena vaší domácnosti. Děje se to ve vašem telefonu; žádná fotka se neukládá ani neodesílá.
 
 ## Co opouští váš telefon a proč
 

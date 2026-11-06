@@ -2,7 +2,7 @@
 
 # Privacy Policy SunMoment (English)
 
-*Last updated: 4 November 2026*
+*Last updated: 6 November 2026*
 
 SunMoment is an app for households with solar panels. It tells you when your roof produces enough power for your appliances. Short answer: **the app uses almost no data, and we cannot read any of it unless you send it to us yourself.** If you link your household, a small script of ours keeps your shared log, encrypted. We cannot read it.
 
@@ -13,6 +13,8 @@ Privacy questions: gala.apps11@gmail.com.
 
 ## What stays on your phone
 Your language and country, chosen town, panels, roof direction and tilt, appliances and timer settings, your answers to "Was yesterday's forecast right?", the daily yields you enter, your "Started" ticks (unless you link your household, see below), and the last downloaded forecast. In off-grid mode, your battery, your daily use and the battery level you enter also stay on your phone. There is **no account**; the app asks no name, email, address or phone number, uses no GPS, and contains no ads and no analytics or tracking software. On Android, cloud backup and phone-to-phone transfer are **switched off** for this app. On iPhone and iPad, iOS includes the app's data in your own backup (iCloud or your computer) if you have backup switched on. You and Apple manage that backup; we have no access to it. New phone? Setting the app up again takes a minute.
+
+**Camera** (only with "Scan the code"): the app uses the camera to read a household member's pairing code. This happens on your phone; no photo is stored or sent.
 
 ## What leaves your phone, and why
 

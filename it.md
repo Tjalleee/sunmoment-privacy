@@ -2,7 +2,7 @@
 
 # Informativa sulla privacy SunMoment (italiano)
 
-*Ultimo aggiornamento: 4 novembre 2026*
+*Ultimo aggiornamento: 6 novembre 2026*
 
 SunMoment è un’app per le famiglie con pannelli solari. Ti dice quando il tuo tetto produce abbastanza energia per i tuoi elettrodomestici. In breve: **l’app usa pochissimi dati, e noi non possiamo leggerne nessuno, a meno che non sia tu a mandarceli.** Se colleghi la tua famiglia, un nostro piccolo script conserva il vostro registro comune, crittografato. Noi non possiamo leggerlo.
 
@@ -13,6 +13,8 @@ Domande sulla privacy: gala.apps11@gmail.com.
 
 ## Cosa resta sul tuo telefono
 La lingua e il Paese, la località scelta, i pannelli, l’orientamento e l’inclinazione del tetto, gli elettrodomestici e le impostazioni del timer, le tue risposte a «La previsione di ieri era giusta?», le produzioni giornaliere che inserisci, i tuoi «Avviato» (a meno che tu non colleghi la tua famiglia, vedi sotto) e l’ultima previsione scaricata. In modalità off-grid restano sul telefono anche la tua batteria, il consumo giornaliero e il livello della batteria che inserisci. **Non c’è nessun account**: l’app non chiede nome, email, indirizzo o numero di telefono, non usa il GPS e non contiene pubblicità né software di analisi o di tracciamento. Su Android il backup sul cloud e il trasferimento da un telefono all’altro sono **disattivati** per questa app. Su iPhone e iPad iOS include i dati dell’app nel tuo backup personale (iCloud o il tuo computer), se lo hai attivato. Quel backup lo gestite tu e Apple; noi non vi abbiamo accesso. Telefono nuovo? Configurare di nuovo l’app richiede un minuto.
+
+**Fotocamera** (solo con «Scansiona il codice»): l’app usa la fotocamera per leggere il codice di collegamento di un membro della tua famiglia. Questo avviene sul tuo telefono; nessuna foto viene salvata o inviata.
 
 ## Cosa esce dal tuo telefono, e perché
 

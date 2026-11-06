@@ -2,7 +2,7 @@
 
 # SunMomenti privaatsuspoliitika (eesti)
 
-*Viimati uuendatud: 4. november 2026*
+*Viimati uuendatud: 6. november 2026*
 
 SunMoment on äpp päikesepaneelidega kodudele. See ütleb, millal su katus annab seadmete jaoks piisavalt elektrit. Lühidalt: **äpp ei kasuta peaaegu mingeid andmeid ja meie ei saa neist midagi lugeda, kui sa neid ise meile ei saada.** Kui ühendad oma pere, hoiab meie väike skript teie ühist logi krüpteeritult. Meie ei saa seda lugeda.
 
@@ -13,6 +13,8 @@ Privaatsusküsimused: gala.apps11@gmail.com.
 
 ## Mis jääb sinu telefoni
 Sinu keel ja riik, valitud asukoht, paneelid, katuse suund ja kalle, seadmed ja taimeri seaded, sinu vastused küsimusele „Kas eilne prognoos pidas paika?“, sinu sisestatud päevatoodangud, sinu „Käivitatud“-märked (välja arvatud siis, kui ühendad oma pere, vt allpool) ja viimati alla laaditud prognoos. Off-grid-režiimis jäävad sinu telefoni ka sinu aku, päevane tarbimine ja aku laetuse tase, mille sisestad. **Kontot pole**; äpp ei küsi nime, e-posti, aadressi ega telefoninumbrit, ei kasuta GPS-i ning selles pole reklaame ega analüüsi- või jälgimistarkvara. Androidis on pilvevarundus ja ülekanne telefonist telefoni selle äpi jaoks **välja lülitatud**. iPhone'is ja iPadis lisab iOS äpi andmed sinu enda varukoopiasse (iCloud või sinu arvuti), kui sul on varundus sisse lülitatud. Seda varukoopiat haldad sina ja Apple; meil pole sellele ligipääsu. Uus telefon? Äpi uuesti seadistamine võtab minuti.
+
+**Kaamera** (ainult „Skanni kood“ puhul): äpp kasutab kaamerat, et lugeda pereliikme ühenduskoodi. See toimub sinu telefonis; ühtegi fotot ei salvestata ega saadeta.
 
 ## Mis lahkub sinu telefonist ja miks
 

@@ -2,7 +2,7 @@
 
 # Politica de confidențialitate SunMoment (română)
 
-*Ultima actualizare: 4 noiembrie 2026*
+*Ultima actualizare: 6 noiembrie 2026*
 
 SunMoment este o aplicație pentru gospodăriile cu panouri solare. Îți spune când acoperișul tău produce destul curent pentru aparatele tale. Pe scurt: **aplicația folosește aproape deloc date, iar noi nu putem citi nimic din ele, decât dacă ni le trimiți chiar tu.** Dacă îți conectezi familia, un mic script al nostru păstrează jurnalul vostru comun, criptat. Noi nu îl putem citi.
 
@@ -13,6 +13,8 @@ Cod de înregistrare în scopuri de TVA: NL004472079B57.
 
 ## Ce rămâne pe telefonul tău
 Limba și țara ta, localitatea aleasă, panourile, orientarea și înclinarea acoperișului, aparatele și setările temporizatorului, răspunsurile tale la „A fost corectă prognoza de ieri?”, producțiile zilnice pe care le introduci, bifele tale „Pornit” (cu excepția cazului în care îți conectezi familia, vezi mai jos) și ultima prognoză descărcată. În modul off-grid, bateria ta, consumul tău zilnic și nivelul bateriei pe care îl introduci rămân și ele pe telefon. **Nu există cont**; aplicația nu cere nume, e-mail, adresă sau număr de telefon, nu folosește GPS și nu conține reclame și niciun software de analiză sau de urmărire. Pe Android, backupul în cloud și transferul de pe un telefon pe altul sunt **dezactivate** pentru această aplicație. Pe iPhone și iPad, iOS include datele aplicației în backupul tău (iCloud sau computerul tău), dacă l-ai activat. Acel backup îl gestionați tu și Apple; noi nu avem acces la el. Telefon nou? Configurezi aplicația din nou într-un minut.
+
+**Camera** (doar la „Scanează codul”): aplicația folosește camera ca să citească codul de conectare al unui membru al familiei tale. Asta se întâmplă pe telefonul tău; nicio fotografie nu este salvată sau trimisă.
 
 ## Ce pleacă de pe telefonul tău și de ce
 

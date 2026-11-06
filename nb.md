@@ -2,7 +2,7 @@
 
 # Personvernerklæring for SunMoment (norsk bokmål)
 
-*Sist oppdatert: 4. november 2026*
+*Sist oppdatert: 6. november 2026*
 
 SunMoment er en app for husstander med solceller. Den forteller deg når taket ditt produserer nok strøm til apparatene dine. Det korte svaret: **appen bruker nesten ingen opplysninger, og vi kan ikke lese noe av dem, med mindre du selv sender dem til oss.** Kobler du sammen husstanden din, lagrer et lite skript fra oss den felles loggen deres, kryptert. Vi kan ikke lese den.
 
@@ -13,6 +13,8 @@ Spørsmål om personvern: gala.apps11@gmail.com.
 
 ## Hva som blir på telefonen din
 Språket og landet ditt, stedet du har valgt, panelene dine, takets retning og helning, apparatene og timerinnstillingene dine, svarene dine på «Stemte gårsdagens værvarsel?», dagsproduksjonen du selv skriver inn, markeringene dine «Startet» (unntatt hvis du kobler sammen husstanden din, se nedenfor) og det sist hentede værvarselet. Er du off-grid, blir også batteriet ditt, forbruket ditt per dag og batterinivået du legger inn, på telefonen din. Det finnes **ingen konto**. Appen spør ikke om navn, e-postadresse, adresse eller telefonnummer, bruker ikke GPS og inneholder ingen reklame og ingen analyse- eller sporingsprogramvare. På Android er sikkerhetskopiering i skyen og overføring fra telefon til telefon **slått av** for denne appen. På iPhone og iPad tar iOS med appens data i din egen sikkerhetskopi (iCloud eller datamaskinen din), hvis du har slått den på. Den sikkerhetskopien styrer du og Apple; vi har ikke tilgang til den. Ny telefon? Da setter du opp appen på nytt på et minutt.
+
+**Kamera** (bare ved «Skann koden»): appen bruker kameraet til å lese tilkoblingskoden fra noen i husstanden din. Det skjer på telefonen din; ingen bilder blir lagret eller sendt.
 
 ## Hva som forlater telefonen din, og hvorfor
 
