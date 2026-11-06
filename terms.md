@@ -45,7 +45,8 @@ allows it. The app is meant for private households.
   help you on 14 days (sun, cheap hours or a tip), but no longer than 60
   days; the app shows how many days are left. On iPhone and iPad, the app tells you before the
   trial starts how long it lasts, what closes afterwards and the price.
-- After that, today's overview stays free. The rest is unlocked with a
+- After that, today's overview stays free if you have solar panels;
+  without solar panels nothing stays free. The rest is unlocked with a
   **one-time purchase** in the app. It is not a subscription: you pay once.
 - The price is shown in the store (Google Play or the App Store) and in the
   app before you buy, including VAT where it applies. The store may show a

@@ -47,7 +47,8 @@ voogd het goedvindt. De app is bedoeld voor huishoudens.
   op 14 dagen kon helpen (zon, goedkope uren of een tip), maar niet langer
   dan 60 dagen; de app toont hoeveel dagen er nog over zijn. Op iPhone en iPad zegt de app vóór de start hoe
   lang de proef duurt, wat daarna dichtgaat en wat het kost.
-- Daarna blijft het overzicht van vandaag gratis. De rest koop je met een
+- Heb je zonnepanelen, dan blijft daarna het overzicht van vandaag gratis.
+  Zonder zonnepanelen blijft er na de proef niets gratis. De rest koop je met een
   **eenmalige aankoop** in de app. Het is geen abonnement: je betaalt één
   keer.
 - De prijs staat in de winkel (Google Play of de App Store) en in de app
