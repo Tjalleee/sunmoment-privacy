@@ -2,7 +2,7 @@
 
 # SunMoment Terms of Use
 
-*Version 1, 4 November 2026*
+*Version 1.1, 7 November 2026 (first version: 4 November 2026)*
 
 These terms apply when you use the SunMoment app. They are short, because the
 app is simple. If anything here conflicts with the law that protects you as a
@@ -22,15 +22,23 @@ SunMoment is made by **Gala Apps**, a sole proprietorship in the Netherlands.
 
 ## 2. What SunMoment does
 
-SunMoment uses a weather forecast and the details you enter about your solar
-panels to estimate when your roof produces the most power. It suggests when
-to run appliances such as a washing machine, dishwasher or dryer, and how to
-set their timer.
+SunMoment suggests when to run appliances such as a washing machine,
+dishwasher or dryer, and how to set their timer. If you have solar panels, it
+uses a weather forecast and the details you enter about your panels to
+estimate when your roof produces the most power. Without solar panels, it
+uses the cheap hours of your electricity contract: hours you enter yourself,
+hours the app knows for some countries, or, in Germany and Denmark, the
+hourly prices of the power exchange. It also gives tips, each with its
+source.
 
 Everything the app shows is an **estimate**. Weather forecasts can be wrong,
 and your roof, your appliances and your energy contract can differ from what
 the app assumes. Savings amounts are estimates too; what you really save
-depends on your own contract and use.
+depends on your own contract and use. What the app counts as saved, or as
+"earned back", is calculated from the runs and tips you mark, the typical
+use of a run and your own prices or an estimate for your country. It is not
+a reading of your meter, and the app only shows money when it has a price to
+count with.
 
 ## 3. Who can use it
 
@@ -50,7 +58,8 @@ allows it. The app is meant for private households.
   **one-time purchase** in the app. It is not a subscription: you pay once.
 - The price is shown in the store (Google Play or the App Store) and in the
   app before you buy, including VAT where it applies. The store may show a
-  local price in your currency.
+  local price in your currency. The price can differ from country to
+  country.
 - The purchase is made through **Google Play** (Android) or the **App Store**
   (iPhone and iPad). Google's or Apple's terms and payment rules also apply
   to it.
@@ -66,7 +75,9 @@ example "done when you get home". **You decide** whether that is safe for
 your appliance and your home. Follow the appliance's instructions. Fire
 services advise against running dryers and other appliances unattended, and
 recommend a working smoke alarm. The app only plans the dryer for when someone
-is home. Never use the app's advice in a way that is unsafe.
+is home. Cheap hours are often at night: the same applies then, because while
+you sleep you do not notice a problem in time. Never use the app's advice in
+a way that is unsafe.
 
 ## 6. Right of withdrawal and refunds
 
@@ -101,9 +112,10 @@ is home. Never use the app's advice in a way that is unsafe.
   tell you in the app or in the store (Google Play or the App Store). If a change makes the app clearly
   worse for you, you may end the purchase agreement and we will refund you in
   line with the law.
-- The app depends on free weather data (the German weather service DWD,
-  directly and via the independent service Bright Sky). If a source stops, we
-  will try to replace it.
+- The app depends on free data: weather data from the German weather
+  service DWD (directly and via the independent service Bright Sky), and in
+  Germany and Denmark the prices and grid tariffs that Energinet publishes.
+  If a source stops, we will try to replace it.
 
 ## 8. Your use of the app
 
@@ -112,6 +124,9 @@ is home. Never use the app's advice in a way that is unsafe.
   sync, and do not try to read other people's data.
 - Keep your household pairing code to yourself and the people you live with.
   Anyone with the code can see your shared log.
+- Found a security problem in the app or the household sync? Please email
+  us (subject "Security") before you share it with others. We will answer,
+  fix it as fast as we can and tell users if they need to do something.
 
 ## 9. Privacy
 

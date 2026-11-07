@@ -2,7 +2,7 @@
 
 # Gebruiksvoorwaarden SunMoment
 
-*Versie 1, 4 november 2026*
+*Versie 1.1, 7 november 2026 (eerste versie: 4 november 2026)*
 
 *Dit is een vertaling. De Engelse tekst is bindend (zie punt 14).*
 
@@ -24,15 +24,22 @@ SunMoment wordt gemaakt door **Gala Apps**, een eenmanszaak in Nederland.
 
 ## 2. Wat SunMoment doet
 
-SunMoment gebruikt een weersverwachting en wat je invult over je zonnepanelen
-om te schatten wanneer je dak de meeste stroom levert. De app stelt voor
-wanneer je apparaten zoals een wasmachine, vaatwasser of droger laat draaien,
-en hoe je de timer zet.
+SunMoment stelt voor wanneer je apparaten zoals een wasmachine, vaatwasser
+of droger laat draaien, en hoe je de timer zet. Heb je zonnepanelen, dan
+gebruikt de app een weersverwachting en wat je invult over je panelen om te
+schatten wanneer je dak de meeste stroom levert. Zonder zonnepanelen gebruikt
+de app de goedkope uren van je stroomcontract: uren die je zelf invult, uren
+die de app voor sommige landen kent, of in Duitsland en Denemarken de
+uurprijzen van de stroombeurs. De app geeft ook tips, elk met een bron.
 
 Alles wat de app laat zien, is een **schatting**. Een weersverwachting kan
 fout zijn, en je dak, je apparaten en je energiecontract kunnen anders zijn
 dan de app aanneemt. Ook besparingsbedragen zijn schattingen; wat je echt
-bespaart, hangt af van je eigen contract en gebruik.
+bespaart, hangt af van je eigen contract en gebruik. Wat de app als
+bespaard of "terugverdiend" telt, rekent hij uit met de beurten en tips die
+jij aantikt, het gewone verbruik van een beurt en je eigen prijzen of een
+schatting voor je land. Het is geen meting van je meter, en de app toont
+alleen geld als hij een prijs heeft om mee te rekenen.
 
 ## 3. Wie de app mag gebruiken
 
@@ -53,7 +60,7 @@ voogd het goedvindt. De app is bedoeld voor huishoudens.
   keer.
 - De prijs staat in de winkel (Google Play of de App Store) en in de app
   vóór je koopt, inclusief btw waar die geldt. De winkel kan een prijs in je
-  eigen munt tonen.
+  eigen munt tonen. De prijs kan per land verschillen.
 - Je koopt via **Google Play** (Android) of de **App Store** (iPhone en
   iPad). Daarvoor gelden ook de voorwaarden en betaalregels van Google of
   Apple.
@@ -69,8 +76,9 @@ is, bijvoorbeeld "klaar als je thuiskomt". **Jij beslist** of dat veilig is
 voor je apparaat en je huis. Volg de handleiding van het apparaat. De
 brandweer raadt af om drogers en andere apparaten zonder toezicht te laten
 draaien, en raadt een werkende rookmelder aan. De app plant de droger alleen
-als er iemand thuis is. Gebruik het advies van de app nooit op een onveilige
-manier.
+als er iemand thuis is. Goedkope uren zijn vaak 's nachts: dan geldt
+hetzelfde, want als je slaapt merk je een probleem niet op tijd. Gebruik het
+advies van de app nooit op een onveilige manier.
 
 ## 6. Herroepingsrecht en terugbetalen
 
@@ -107,9 +115,10 @@ manier.
   Play of de App Store). Wordt
   de app door een wijziging duidelijk slechter voor jou, dan mag je de
   koopovereenkomst beëindigen en betalen we je terug volgens de wet.
-- De app hangt af van gratis weerdata (de Duitse weerdienst DWD, rechtstreeks
-  en via de zelfstandige dienst Bright Sky). Stopt een bron, dan proberen we
-  een vervanging te vinden.
+- De app hangt af van gratis data: weerdata van de Duitse weerdienst DWD
+  (rechtstreeks en via de zelfstandige dienst Bright Sky), en in Duitsland
+  en Denemarken de prijzen en nettarieven die Energinet publiceert. Stopt
+  een bron, dan proberen we een vervanging te vinden.
 
 ## 8. Hoe je de app gebruikt
 
@@ -119,6 +128,10 @@ manier.
   lezen.
 - Houd je koppelcode voor jezelf en je huisgenoten. Wie de code heeft, kan
   jullie gedeelde logboek zien.
+- Een beveiligingsprobleem gevonden in de app of de huisgenoten-sync? Mail
+  ons (onderwerp "Beveiliging") voordat je het met anderen deelt. We
+  antwoorden, lossen het zo snel mogelijk op en laten gebruikers weten of ze
+  iets moeten doen.
 
 ## 9. Privacy
 
