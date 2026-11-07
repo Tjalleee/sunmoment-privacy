@@ -16,6 +16,8 @@ Sinu keel ja riik, valitud asukoht, paneelid, katuse suund ja kalle, seadmed ja 
 
 Telefoni jääb ka: kuidas sa elektri eest maksad (sinu leping, hinnad ja odavad tunnid, Taanis sinu võrguettevõte), odavatel tundidel käivitatud tsüklid ja nõuanded, mille märgid, ning prooviaja ja ostukaardi jaoks: millistel päevadel äpp sind aidata sai ja kui palju sa maksid.
 
+Telefoni jääb ka: Hollandis sinu müügikulu kWh kohta, kui sa selle sisestad, varju katusel ning elektriauto puhul see, kui palju sa tavaliselt laed ja mis kellaks peab auto täis olema. Jaotises Privaatsus ja allikad on loend **Mida rakendus võrgus tegi?**: äpi viimased 50 internetipäringut, igaühe juures aeg, teenus, mida suures plaanis kaasa saadeti ja kas see õnnestus. Kui äpp ei saa käivitamisel mõnda seadet või logi lugeda, hoiab ta vana teksti ühe korra alles, et midagi kaduma ei läheks. Loend ja see koopia ei lähe kuhugi, ka mitte tagasiside sõnumiga kaasa. Valikuga **Jaga pildina** teed oma kuust pildi: sinu tsüklid ja kWh, ilma nime ja asukohata, Androidis koos lingiga Google Play'sse. Sina otsustad, kellega seda jagad.
+
 **Kaamera** (ainult „Skanni kood“ puhul): äpp kasutab kaamerat, et lugeda pereliikme ühenduskoodi. See toimub sinu telefonis; ühtegi fotot ei salvestata ega saadeta.
 
 ## Mis lahkub sinu telefonist ja miks
@@ -33,6 +35,8 @@ iPhone'is või iPadis küsib äpp ilma ainult meie oma ilmafailidest Bunny.netis
 **Elektrihinnad** (ainult siis, kui lülitad sisse valiku „Mul on börsihinnaga leping“; praegu Saksamaal ja Taanis): äpp laadib kord päevas Bunny.netist sinu hinnapiirkonna (DK1, DK2 või DE) hinnafaili. See fail on kõigile selles piirkonnas sama. Bunny.net näeb seejuures ainult sinu IP-aadressi ja kellaaega, täpselt nagu ilma puhul. Sinu asukohta ei saadeta; faili nimes on ainult piirkond. Sinu vastus „börsihinnaga leping“ jääb sinu telefoni. Hinnad pärinevad Energinetilt (Energi Data Service, Taani, CC BY 4.0). Energinet ei saa sinult midagi: hinnad laadime sealt meie, mitte sinu telefon. Alates kella 15:00 laadib äpp ka homse faili. Õigustatud huvi: lülitad selle ise sisse ja äpp vajab selleks faili (artikli 6 lõike 1 punkt f). Lülitame Bunny.neti logimise välja ega säilita midagi.
 
 **Võrgutasu (Taani)** (ainult siis, kui valid seadetes oma võrguettevõtte): äpp laadib Bunny.netist võrguettevõtete loendi ja seejärel sinu võrguettevõtte tariififaili, kõige rohkem kaks korda päevas. See fail on kõigile selle võrguettevõtte klientidele sama; faili nimes on ainult võrguettevõtte number. Bunny.net näeb seejuures ainult sinu IP-aadressi ja kellaaega. Sinu valik jääb sinu telefoni. Tariifid pärinevad Energinetilt (DataHub, CC BY 4.0); Energinet ei saa sinult midagi. Õigustatud huvi: valid võrguettevõtte ise ja äpp vajab selleks faili (artikli 6 lõike 1 punkt f). Lülitame Bunny.neti logimise välja ega säilita midagi.
+
+**„See lause on vale“** (tagasiside juures): siis lähevad alati kaasa ka sinu keel ja viimati avatud ekraanide nimed (näiteks „SettingsScreen“), isegi kui tehniline teave on välja lülitatud. Näed neid enne saatmist.
 
 Tehniline teave on vaikimisi sees. Näed seda enne saatmist täielikult ning saad selle välja lülitada või kustutada. Meil **pole oma serverit**, ainult väike sünkroonimisskript Bunny.netis. See töötab ainult siis, kui ühendad oma pere, ja hoiab ainult krüpteeritud plokke, mida meie lugeda ei saa. Muul juhul ei saada äpp meile ise midagi.
 

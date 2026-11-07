@@ -16,6 +16,8 @@ Your language and country, chosen town, panels, roof direction and tilt, applian
 
 Also on your phone: how you pay for electricity (your contract, your prices and cheap hours, and in Denmark your grid company), your runs in the cheap hours and the tips you tick, and, for the trial and the purchase card, on which days the app could help you and what you paid.
 
+Also on your phone: in the Netherlands, your feed-in costs per kWh if you enter them; the shade on your roof; and for an electric car, how much you usually charge and by what time it must be full. Under Privacy & sources is the list **What did the app do online?**: the app's last 50 internet requests, with the time, the service, what was sent in broad terms and whether it worked. If the app cannot read a setting or a log when it starts, it keeps the old text once, so nothing is lost. That list and that copy go nowhere, not even in a feedback message. With **Share as a picture** you make a picture of your month: your runs and kWh, without your name or town, and on Android with a link to Google Play. You choose who you share it with.
+
 **Camera** (only with "Scan the code"): the app uses the camera to read a household member's pairing code. This happens on your phone; no photo is stored or sent.
 
 ## What leaves your phone, and why
@@ -33,6 +35,8 @@ On an iPhone or iPad the app asks only our own weather files at Bunny.net, in ev
 **Electricity prices** (only if you switch on "I have a dynamic contract"; now in Germany and Denmark): once a day, the app fetches the price file for your price zone (DK1, DK2 or DE) from Bunny.net. That file is the same for everyone in that zone. Bunny.net only sees your IP address and the time, just as with the weather. Your town is not sent; only the zone is in the file name. Your answer "dynamic contract" stays on your phone. The prices come from Energinet (Energi Data Service, Denmark, CC BY 4.0). Energinet gets nothing from you: we fetch the prices there, not your phone. From 15:00 the app also fetches tomorrow's file. Legitimate interest: you switch this on yourself, and the app needs the file for it (Art. 6(1)(f)). We switch off Bunny.net's logging and keep nothing.
 
 **Grid tariff (Denmark)** (only if you choose your grid company in Settings): the app fetches the list of grid companies and then the tariff file of your grid company from Bunny.net, at most twice a day. That file is the same for everyone with that grid company; its name only holds the company's number. Bunny.net only sees your IP address and the time. Your choice stays on your phone. The tariffs come from Energinet (DataHub, CC BY 4.0); Energinet gets nothing from you. Legitimate interest: you choose your grid company yourself, and the app needs the file for it (Art. 6(1)(f)). We switch off Bunny.net's logging and keep nothing.
+
+**"This sentence is wrong"** (in feedback): your language and the names of the last screens you opened (for example "SettingsScreen") always go along, even with the technical info switched off. You see them before you send.
 
 The technical info is on by default. You see it in full before sending and can switch it off or delete it. We run **no server of our own**, only a small sync script at Bunny.net. It works only if you link your household, and it keeps only encrypted blocks that we cannot read. Apart from that, the app sends us nothing by itself.
 

@@ -16,6 +16,8 @@ Limba și țara ta, localitatea aleasă, panourile, orientarea și înclinarea a
 
 Tot pe telefonul tău rămân: cum plătești curentul (contractul, prețurile și orele tale ieftine, iar în Danemarca operatorul tău de rețea), ciclurile pornite în orele ieftine și sfaturile pe care le bifezi, iar pentru perioada de probă și cardul de cumpărare: în ce zile te-a putut ajuta aplicația și cât ai plătit.
 
+Pe telefon rămân și: în Țările de Jos, costurile tale pe kWh trimis în rețea, dacă le introduci; umbra de pe acoperiș; iar pentru o mașină electrică, cât încarci de obicei și la ce oră trebuie să fie încărcată. La Confidențialitate și surse găsești lista **Ce a făcut aplicația online?**: ultimele 50 de cereri ale aplicației pe internet, cu ora, serviciul, ce s-a trimis în linii mari și dacă a reușit. Dacă la pornire aplicația nu poate citi o setare sau un jurnal, păstrează o dată textul vechi, ca să nu se piardă nimic. Lista și copia nu pleacă nicăieri, nici într-un mesaj de feedback. Cu **Distribuie ca imagine** faci o imagine a lunii tale: ciclurile și kWh-ii tăi, fără nume sau localitate, pe Android cu un link spre Google Play. Tu alegi cu cine o împarți.
+
 **Camera** (doar la „Scanează codul”): aplicația folosește camera ca să citească codul de conectare al unui membru al familiei tale. Asta se întâmplă pe telefonul tău; nicio fotografie nu este salvată sau trimisă.
 
 ## Ce pleacă de pe telefonul tău și de ce
@@ -33,6 +35,8 @@ Pe un iPhone sau iPad, aplicația ia vremea doar din propriile noastre fișiere 
 **Prețurile energiei** (doar dacă activezi „Am un contract dinamic”; deocamdată în Germania și Danemarca): o dată pe zi, aplicația descarcă de la Bunny.net fișierul de prețuri al zonei tale de preț (DK1, DK2 sau DE). Fișierul e același pentru toți cei din acea zonă. Bunny.net vede doar adresa ta IP și ora, la fel ca la vreme. Localitatea ta nu este trimisă; în numele fișierului apare doar zona. Răspunsul tău „contract dinamic” rămâne pe telefon. Prețurile vin de la Energinet (Energi Data Service, Danemarca, CC BY 4.0). Energinet nu primește nimic de la tine: noi luăm prețurile de acolo, nu telefonul tău. De la ora 15:00, aplicația descarcă și fișierul pentru ziua de mâine. Interes legitim: tu activezi asta, iar aplicația are nevoie de fișier pentru asta (f)). Dezactivăm jurnalele Bunny.net și nu păstrăm nimic.
 
 **Tariful de rețea (Danemarca)** (doar dacă îți alegi operatorul de rețea în Setări): aplicația descarcă de la Bunny.net lista operatorilor de rețea și apoi fișierul de tarife al operatorului tău, de cel mult două ori pe zi. Fișierul e același pentru toți clienții acelui operator; în nume apare doar numărul operatorului. Bunny.net vede doar adresa ta IP și ora. Alegerea ta rămâne pe telefon. Tarifele vin de la Energinet (DataHub, CC BY 4.0); Energinet nu primește nimic de la tine. Interes legitim: tu îți alegi operatorul de rețea, iar aplicația are nevoie de fișier pentru asta (f)). Dezactivăm jurnalele Bunny.net și nu păstrăm nimic.
+
+**„Fraza aceasta e greșită”** (la feedback): atunci pleacă mereu și limba ta și numele ultimelor ecrane deschise (de exemplu „SettingsScreen”), chiar dacă informațiile tehnice sunt oprite. Le vezi înainte de trimitere.
 
 Informațiile tehnice sunt pornite implicit. Le vezi complet înainte de trimitere și le poți dezactiva sau șterge. **Nu avem niciun server propriu**, doar un mic script de sincronizare la Bunny.net. Funcționează doar dacă îți conectezi familia și păstrează doar blocuri criptate pe care noi nu le putem citi. În rest, aplicația nu ne trimite nimic singură.
 

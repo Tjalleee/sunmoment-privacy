@@ -2,7 +2,7 @@
 
 # Delete your SunMoment data
 
-*SunMoment by Gala Apps · 7 November 2026*
+*SunMoment by Gala Apps · 8 November 2026*
 
 SunMoment has **no account**. Almost everything stays on your own phone, so
 in most cases you delete it yourself, at once. This page shows how, per kind
@@ -12,8 +12,10 @@ of data, and what is kept and for how long. Full details are in the
 ## 1. Everything on your phone
 
 Your settings, your town, your roof, your appliances, how you pay for
-electricity (contract, prices, cheap hours), your log of runs and tips, your
-trial details and what you paid are stored only on your phone.
+electricity (contract, prices, cheap hours, feed-in costs), your log of
+runs and tips, the list "What did the app do online?", a one-time copy of a
+setting or log the app could not read, your trial details and what you paid
+are stored only on your phone.
 
 - **Android:** uninstall SunMoment, or choose Settings → Apps → SunMoment →
   Storage → Clear data.
@@ -22,6 +24,11 @@ trial details and what you paid are stored only on your phone.
   your name → iCloud → Manage storage → Backups).
 
 This deletes it immediately. Nothing is kept.
+
+**Files you made yourself:** a file from Settings → Move to a new phone, or
+a month picture you shared, is wherever you put it (for example your mail,
+a cloud drive or Files). The app never sends these to us. Delete them there
+yourself; we cannot reach them.
 
 ## 2. Household sync (only if you linked your household)
 

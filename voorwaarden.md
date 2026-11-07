@@ -2,7 +2,7 @@
 
 # Gebruiksvoorwaarden SunMoment
 
-*Versie 1.1, 7 november 2026 (eerste versie: 4 november 2026)*
+*Versie 1.2, 8 november 2026 (eerste versie: 4 november 2026)*
 
 *Dit is een vertaling. De Engelse tekst is bindend (zie punt 14).*
 
@@ -41,6 +41,14 @@ jij aantikt, het gewone verbruik van een beurt en je eigen prijzen of een
 schatting voor je land. Het is geen meting van je meter, en de app toont
 alleen geld als hij een prijs heeft om mee te rekenen.
 
+Voor een elektrische auto stelt de app een tijd voor, en soms een
+laadstroom. De app start of regelt het laden niet: je auto en je laadpaal
+stel je zelf in, volgens hun handleiding. Prijzen en kosten die je zelf
+invult, zoals terugleverkosten, gebruikt de app zoals jij ze invult; kijk ze
+na op je contract of je rekening. Een tip over drukke uren op het stroomnet
+(bijvoorbeeld de avonduren die de Rijksoverheid noemt) is algemene
+informatie met een bron, geen belofte over jouw net of je rekening.
+
 ## 3. Wie de app mag gebruiken
 
 Je mag SunMoment gebruiken als je 18 jaar of ouder bent, of als een ouder of
@@ -77,7 +85,9 @@ voor je apparaat en je huis. Volg de handleiding van het apparaat. De
 brandweer raadt af om drogers en andere apparaten zonder toezicht te laten
 draaien, en raadt een werkende rookmelder aan. De app plant de droger alleen
 als er iemand thuis is. Goedkope uren zijn vaak 's nachts: dan geldt
-hetzelfde, want als je slaapt merk je een probleem niet op tijd. Gebruik het
+hetzelfde, want als je slaapt merk je een probleem niet op tijd. Zet nooit
+een hogere laadstroom dan je laadpaal, je aansluiting en je auto aankunnen;
+twijfel je, vraag het een installateur. Gebruik het
 advies van de app nooit op een onveilige manier.
 
 ## 6. Herroepingsrecht en terugbetalen
@@ -160,7 +170,8 @@ contract dat je moet tekenen.
    - voor je rechten als consument als de app niet aan de overeenkomst
      voldoet (zie punt 6).
 5. Wij zijn niet verantwoordelijk voor Google Play, de App Store, je
-   telefoon, je internetverbinding, je apparaten of je energieleverancier.
+   telefoon, je internetverbinding, je apparaten, je auto of laadpaal, of je
+   energieleverancier.
 
 ## 11. Rechten op de app
 

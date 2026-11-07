@@ -2,7 +2,7 @@
 
 # Je SunMoment-gegevens verwijderen
 
-*SunMoment van Gala Apps · 7 november 2026*
+*SunMoment van Gala Apps · 8 november 2026*
 
 SunMoment heeft **geen account**. Bijna alles staat alleen op je eigen
 telefoon. Meestal verwijder je het dus zelf, meteen. Hieronder staat per
@@ -12,8 +12,10 @@ staat ook in de [privacyverklaring](nl.md).
 ## 1. Alles op je telefoon
 
 Je instellingen, je plaats, je dak, je apparaten, hoe je je stroom betaalt
-(contract, prijzen, goedkope uren), je logboek van beurten en tips, de
-gegevens van je proef en wat je betaalde staan alleen op je telefoon.
+(contract, prijzen, goedkope uren, terugleverkosten), je logboek van
+beurten en tips, de lijst "Wat deed de app online?", een eenmalige kopie van
+een instelling of logboek dat de app niet kon lezen, de gegevens van je proef
+en wat je betaalde staan alleen op je telefoon.
 
 - **Android:** verwijder SunMoment, of kies Instellingen → Apps →
   SunMoment → Opslag → Gegevens wissen.
@@ -23,6 +25,11 @@ gegevens van je proef en wat je betaalde staan alleen op je telefoon.
   Reservekopieën).
 
 Dan is het meteen weg. Er blijft niets bewaard.
+
+**Bestanden die je zelf maakte:** een bestand van Instellingen → Naar een
+nieuwe telefoon, of een maandplaatje dat je deelde, staat waar jij het
+neerzette (bijvoorbeeld in je mail, een clouddienst of Bestanden). De app
+stuurt die nooit naar ons. Wis ze daar zelf; wij kunnen er niet bij.
 
 ## 2. Huisgenoten-sync (alleen als je je huishouden koppelde)
 

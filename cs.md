@@ -16,6 +16,8 @@ Váš jazyk a země, zvolené místo, panely, orientace a sklon střechy, spotř
 
 V telefonu zůstává také: jak platíte za elektřinu (vaše smlouva, ceny a levné hodiny, v Dánsku váš provozovatel sítě), cykly spuštěné v levných hodinách a tipy, které si odškrtnete, a pro zkušební dobu a kartu nákupu: ve které dny vám aplikace mohla pomoci a kolik jste zaplatili.
 
+V telefonu zůstává také: v Nizozemsku váš poplatek za přetoky za kWh, pokud ho zadáte, stín na vaší střeše a u elektromobilu to, kolik obvykle nabíjíte a v kolik má být auto nabité. V části Soukromí a zdroje je seznam **Co aplikace dělala online?**: posledních 50 požadavků aplikace na internet, s časem, službou, tím, co se zhruba odeslalo, a zda to vyšlo. Když aplikace při spuštění nemůže přečíst nějaké nastavení nebo záznam, jednou si uschová starý text, aby se nic neztratilo. Ten seznam ani ta kopie nikam nejdou, ani ve zprávě se zpětnou vazbou. Volbou **Sdílet jako obrázek** vytvoříte obrázek svého měsíce: vaše cykly a kWh, bez jména a místa, na Androidu s odkazem na Google Play. S kým ho sdílíte, rozhodujete vy.
+
 **Fotoaparát** (jen u „Naskenovat kód“): aplikace používá fotoaparát ke čtení párovacího kódu od člena vaší domácnosti. Děje se to ve vašem telefonu; žádná fotka se neukládá ani neodesílá.
 
 ## Co opouští váš telefon a proč
@@ -33,6 +35,8 @@ Na iPhonu nebo iPadu si aplikace bere počasí jen z našich vlastních souborů
 **Ceny elektřiny** (jen když zapnete „Mám dynamický tarif“; nyní v Německu a Dánsku): aplikace jednou denně stáhne z Bunny.net soubor s cenami pro vaši cenovou zónu (DK1, DK2 nebo DE). Ten soubor je stejný pro všechny v dané zóně. Bunny.net přitom vidí jen vaši IP adresu a čas, stejně jako u počasí. Vaše místo se neposílá; v názvu souboru je jen zóna. Vaše odpověď „dynamický tarif“ zůstává v telefonu. Ceny pocházejí od Energinet (Energi Data Service, Dánsko, CC BY 4.0). Energinet od vás nic nedostane: ceny odtamtud stahujeme my, ne váš telefon. Od 15:00 stahuje aplikace i soubor na zítřek. Oprávněný zájem: zapínáte to sami a aplikace k tomu soubor potřebuje (čl. 6 odst. 1 písm. f)). Záznamy (logy) u Bunny.net vypínáme a nic neuchováváme.
 
 **Síťový tarif (Dánsko)** (jen když si v Nastavení vyberete svého provozovatele sítě): aplikace stáhne z Bunny.net seznam provozovatelů sítě a potom soubor s tarify vašeho provozovatele, nejvýše dvakrát denně. Ten soubor je stejný pro všechny u daného provozovatele; v názvu je jen číslo provozovatele. Bunny.net přitom vidí jen vaši IP adresu a čas. Vaše volba zůstává v telefonu. Tarify pocházejí od Energinet (DataHub, CC BY 4.0); Energinet od vás nic nedostane. Oprávněný zájem: provozovatele sítě si vybíráte sami a aplikace k tomu soubor potřebuje (čl. 6 odst. 1 písm. f)). Záznamy (logy) u Bunny.net vypínáme a nic neuchováváme.
+
+**„Tato věta je špatně“** (u zpětné vazby): pak se vždy odešle i váš jazyk a názvy naposledy otevřených obrazovek (například „SettingsScreen“), i když jsou technické údaje vypnuté. Uvidíte je před odesláním.
 
 Technické údaje jsou ve výchozím stavu zapnuté. Před odesláním je vidíte celé a můžete je vypnout nebo smazat. **Nemáme vlastní server**, jen malý synchronizační skript u Bunny.net. Funguje, jen když propojíte domácnost, a uchovává jen šifrované bloky, které nemůžeme číst. Kromě toho nám aplikace sama nic neposílá.
 

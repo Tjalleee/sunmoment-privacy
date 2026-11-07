@@ -16,6 +16,8 @@ Språket og landet ditt, stedet du har valgt, panelene dine, takets retning og h
 
 Også på telefonen din blir: hvordan du betaler for strømmen (avtalen din, prisene og de billige timene dine, og i Danmark netselskapet ditt), omgangene du startet i de billige timene og tipsene du huker av, og for prøveperioden og kjøpskortet: hvilke dager appen kunne hjelpe deg, og hva du betalte.
 
+Også på telefonen din blir: i Nederland gebyret ditt per solgt kWh hvis du fyller det inn, skyggen på taket ditt, og for en elbil hvor mye du pleier å lade og når den må være full. Under Personvern og kilder står listen **Hva gjorde appen på nett?**: appens siste 50 forespørsler på internett, med tidspunkt, tjeneste, hva som ble sendt i grove trekk og om det gikk bra. Kan appen ikke lese en innstilling eller en logg når den starter, tar den vare på den gamle teksten én gang, så ingenting går tapt. Listen og kopien sendes ingen steder, heller ikke med i en tilbakemelding. Med **Del som bilde** lager du et bilde av måneden din: omgangene dine og kWh, uten navn eller sted, på Android med en lenke til Google Play. Du velger selv hvem du deler det med.
+
 **Kamera** (bare ved «Skann koden»): appen bruker kameraet til å lese tilkoblingskoden fra noen i husstanden din. Det skjer på telefonen din; ingen bilder blir lagret eller sendt.
 
 ## Hva som forlater telefonen din, og hvorfor
@@ -33,6 +35,8 @@ På en iPhone eller iPad spør appen bare våre egne værfiler hos Bunny.net om 
 **Strømpriser** (bare hvis du slår på «Jeg har en dynamisk strømavtale»; nå i Tyskland og Danmark): appen henter én gang om dagen prisfilen for prisområdet ditt (DK1, DK2 eller DE) hos Bunny.net. Filen er den samme for alle i det området. Bunny.net ser da bare IP-adressen din og tidspunktet, akkurat som for været. Stedet ditt sendes ikke med; bare området står i navnet på filen. Svaret ditt «dynamisk strømavtale» blir på telefonen din. Prisene kommer fra Energinet (Energi Data Service, Danmark, CC BY 4.0). Energinet får ingenting fra deg: det er vi som henter prisene der, ikke telefonen din. Fra kl. 15 henter appen også filen for i morgen. Berettiget interesse: du slår det på selv, og appen trenger filen til det (art. 6 nr. 1 bokstav f). Vi slår av loggingen hos Bunny.net og lagrer ingenting.
 
 **Nettleie (Danmark)** (bare hvis du velger nettselskapet ditt i Innstillinger): appen henter listen over nettselskaper og deretter tariffilen for nettselskapet ditt hos Bunny.net, høyst to ganger om dagen. Filen er den samme for alle hos det nettselskapet; i navnet står bare nummeret til nettselskapet. Bunny.net ser da bare IP-adressen din og tidspunktet. Valget ditt blir på telefonen din. Tariffene kommer fra Energinet (DataHub, CC BY 4.0); Energinet får ingenting fra deg. Berettiget interesse: du velger netselskapet selv, og appen trenger filen til det (art. 6 nr. 1 bokstav f). Vi slår av loggingen hos Bunny.net og lagrer ingenting.
+
+**«Denne setningen er feil»** (ved tilbakemelding): da følger alltid språket ditt og navnene på de siste skjermene du åpnet med (for eksempel «SettingsScreen»), også når den tekniske infoen er slått av. Du ser dem før du sender.
 
 Den tekniske infoen er slått på som standard. Du ser den i sin helhet før du sender, og kan slå den av eller slette den. Vi har **ingen egen server**, bare et lite synkroniseringsskript hos Bunny.net. Det fungerer bare hvis du kobler sammen husstanden din, og det lagrer bare krypterte blokker som vi ikke kan lese. Ellers sender appen ingenting til oss av seg selv.
 

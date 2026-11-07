@@ -16,6 +16,8 @@ Kielesi ja maasi, valitsemasi paikkakunta, paneelit, katon suunta ja kaltevuus, 
 
 Puhelimeesi jäävät myös: miten maksat sähkösi (sopimuksesi, hintasi ja halvat tuntisi sekä Tanskassa verkkoyhtiösi), halvoilla tunneilla käynnistämäsi ohjelmat ja merkitsemäsi vinkit sekä kokeilua ja ostokorttia varten: minä päivinä sovellus pystyi auttamaan ja mitä maksoit.
 
+Puhelimeesi jäävät myös: Alankomaissa myyntimaksusi per kWh, jos syötät sen, katon varjo sekä sähköautolle, kuinka paljon yleensä lataat ja mihin aikaan auton pitää olla täynnä. Kohdassa Yksityisyys ja lähteet on lista **Mitä sovellus teki verkossa?**: sovelluksen 50 viimeisintä internetpyyntöä, ja jokaisesta aika, palvelu, mitä suurin piirtein lähti mukaan ja onnistuiko se. Jos sovellus ei käynnistyessään pysty lukemaan jotain asetusta tai lokia, se säilyttää vanhan tekstin kerran, jotta mitään ei katoa. Lista ja kopio eivät lähde minnekään, eivät myöskään palauteviestin mukana. Toiminnolla **Jaa kuvana** teet kuvan kuukaudestasi: ohjelmasi ja kWh:t, ilman nimeä tai paikkakuntaa, Androidilla linkin kanssa Google Playhin. Sinä päätät, kenen kanssa jaat sen.
+
 **Kamera** (vain kohdassa ”Skannaa koodi”): sovellus käyttää kameraa lukeakseen kotiväkeesi kuuluvan henkilön yhdistämiskoodin. Tämä tapahtuu puhelimessasi; valokuvaa ei tallenneta eikä lähetetä.
 
 ## Mitä lähtee puhelimestasi, ja miksi
@@ -33,6 +35,8 @@ iPhonessa tai iPadissa sovellus hakee sään vain omista säätiedostoistamme Bu
 **Sähkön hinnat** (vain jos otat käyttöön kohdan ”Minulla on pörssisähkösopimus”; nyt Saksassa ja Tanskassa): sovellus hakee kerran päivässä hinta-alueesi (DK1, DK2 tai DE) hintatiedoston Bunny.netistä. Tiedosto on sama kaikille sillä alueella. Bunny.net näkee silloin vain IP-osoitteesi ja ajankohdan, aivan kuten sään kohdalla. Paikkakuntaasi ei lähetetä; vain alue on tiedoston nimessä. Vastauksesi ”pörssisähkösopimus” pysyy puhelimessasi. Hinnat tulevat Energinetiltä (Energi Data Service, Tanska, CC BY 4.0). Energinet ei saa sinulta mitään: me haemme hinnat sieltä, ei puhelimesi. Kello 15:stä alkaen sovellus hakee myös huomisen tiedoston. Oikeutettu etu: otat tämän itse käyttöön, ja sovellus tarvitsee tiedoston siihen (6 artiklan 1 kohdan f alakohta). Kytkemme Bunny.netin lokit pois päältä emmekä säilytä mitään.
 
 **Siirtohinta (Tanska)** (vain jos valitset verkkoyhtiösi asetuksista): sovellus hakee Bunny.netistä verkkoyhtiöiden luettelon ja sen jälkeen verkkoyhtiösi hintatiedoston, enintään kaksi kertaa päivässä. Tiedosto on sama kaikille saman verkkoyhtiön asiakkaille; sen nimessä on vain verkkoyhtiön numero. Bunny.net näkee silloin vain IP-osoitteesi ja ajankohdan. Valintasi pysyy puhelimessasi. Siirtohinnat tulevat Energinetiltä (DataHub, CC BY 4.0); Energinet ei saa sinulta mitään. Oikeutettu etu: valitset verkkoyhtiösi itse, ja sovellus tarvitsee tiedoston siihen (6 artiklan 1 kohdan f alakohta). Kytkemme Bunny.netin lokit pois päältä emmekä säilytä mitään.
+
+**”Tämä lause on väärin”** (palautteessa): silloin mukaan lähtevät aina myös kielesi ja viimeksi avaamiesi näkymien nimet (esimerkiksi ”SettingsScreen”), vaikka tekniset tiedot olisivat pois päältä. Näet ne ennen lähettämistä.
 
 Tekniset tiedot ovat oletuksena mukana. Näet ne kokonaan ennen lähettämistä ja voit ottaa ne pois tai poistaa ne. Meillä **ei ole omaa palvelinta**, vain pieni synkronointiskripti Bunny.netissä. Se toimii vain, jos yhdistät kotiväkesi, ja se säilyttää vain salattuja lohkoja, joita emme voi lukea. Muuten sovellus ei lähetä meille itsestään mitään.
 

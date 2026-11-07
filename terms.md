@@ -2,7 +2,7 @@
 
 # SunMoment Terms of Use
 
-*Version 1.1, 7 November 2026 (first version: 4 November 2026)*
+*Version 1.2, 8 November 2026 (first version: 4 November 2026)*
 
 These terms apply when you use the SunMoment app. They are short, because the
 app is simple. If anything here conflicts with the law that protects you as a
@@ -40,6 +40,14 @@ use of a run and your own prices or an estimate for your country. It is not
 a reading of your meter, and the app only shows money when it has a price to
 count with.
 
+For an electric car, the app suggests a time and sometimes a charging
+current. It does not start or control the charging: you set your car and
+your charger yourself, following their instructions. Prices and costs you
+enter yourself, such as feed-in costs, are used as you enter them; check
+them against your contract or bill. A hint about busy hours on the power
+grid (for example the evening hours the Dutch government names) is general
+information with its source, not a promise about your grid or your bill.
+
 ## 3. Who can use it
 
 You can use SunMoment if you are 18 or older, or if a parent or guardian
@@ -76,8 +84,10 @@ your appliance and your home. Follow the appliance's instructions. Fire
 services advise against running dryers and other appliances unattended, and
 recommend a working smoke alarm. The app only plans the dryer for when someone
 is home. Cheap hours are often at night: the same applies then, because while
-you sleep you do not notice a problem in time. Never use the app's advice in
-a way that is unsafe.
+you sleep you do not notice a problem in time. Never set a higher charging
+current than your charger, your home's connection and your car allow; if in
+doubt, ask an installer. Never use the app's advice in a way that is
+unsafe.
 
 ## 6. Right of withdrawal and refunds
 
@@ -152,7 +162,8 @@ contract you have to sign.
    - to your rights as a consumer when the app does not conform to the
      contract (see section 6).
 5. We are not responsible for Google Play, the App Store, your phone, your
-   internet connection, your appliances or your energy supplier.
+   internet connection, your appliances, your car or charger, or your energy
+   supplier.
 
 ## 11. Rights in the app
 

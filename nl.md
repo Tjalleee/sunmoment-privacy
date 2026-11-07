@@ -22,6 +22,8 @@ Er is **geen account**. De app vraagt geen naam, e-mailadres, adres of telefoonn
 
 Ook op je telefoon blijven: hoe je je stroom betaalt (je contract, je prijzen en goedkope uren, en in Denemarken je netbedrijf), je beurten in de goedkope uren en de tips die je aanvinkt, en voor de proef en de koopkaart: op welke dagen de app je kon helpen en wat je betaalde.
 
+Ook op je telefoon: in Nederland je terugleverkosten per kWh als je die invult, de schaduw op je dak, en voor een elektrische auto hoeveel je meestal laadt en hoe laat hij vol moet zijn. Onder Privacy & bronnen staat de lijst **Wat deed de app online?**: de laatste 50 internetverzoeken van de app, met het tijdstip, de dienst, wat er in grote lijnen meeging en of het lukte. Kan de app bij het starten een instelling of logboek niet lezen, dan bewaart hij de oude tekst één keer, zodat er niets verloren gaat. Die lijst en die kopie gaan nergens heen, ook niet mee in een feedbackbericht. Met **Delen als plaatje** maak je een plaatje van je maand: je beurten en kWh, zonder naam of woonplaats, op Android met een link naar Google Play. Jij kiest met wie je het deelt.
+
 **Camera** (alleen bij "Scan de code"): de app gebruikt de camera om de koppelcode van een huisgenoot te lezen. Dat gebeurt op je telefoon; er wordt geen foto bewaard of verstuurd.
 
 ## Wat gaat er naar buiten, en waarom?
@@ -39,6 +41,8 @@ Op een iPhone of iPad vraagt de app het weer alleen bij onze eigen weerbestanden
 **Stroomprijzen** (alleen als je "Ik heb een dynamisch contract" aanzet; nu in Duitsland en Denemarken): de app haalt één keer per dag het prijsbestand van je prijszone (DK1, DK2 of DE) op bij Bunny.net. Dat bestand is voor iedereen in die zone hetzelfde. Bunny.net ziet daarbij alleen je IP-adres en het tijdstip, net als bij het weer. Je plaats gaat niet mee; alleen de zone staat in de naam van het bestand. Je antwoord "dynamisch contract" blijft op je telefoon. De prijzen komen van Energinet (Energi Data Service, Denemarken, CC BY 4.0). Energinet krijgt niets van jou: wij halen de prijzen daar op, niet je telefoon. Vanaf 15:00 haalt de app ook het bestand van morgen op. Gerechtvaardigd belang: je zet dit zelf aan, en de app heeft het bestand daarvoor nodig (art. 6 lid 1 sub f). Wij zetten de logboeken van Bunny.net uit en bewaren niets.
 
 **Nettarief (Denemarken)** (alleen als je in Instellingen je netbedrijf kiest): de app haalt de lijst met netbedrijven en daarna het tariefbestand van jouw netbedrijf op bij Bunny.net, hooguit twee keer per dag. Dat bestand is voor iedereen bij dat netbedrijf hetzelfde; in de naam staat alleen het nummer van het netbedrijf. Bunny.net ziet daarbij alleen je IP-adres en het tijdstip. Je keuze blijft op je telefoon. De tarieven komen van Energinet (DataHub, CC BY 4.0); Energinet krijgt niets van jou. Gerechtvaardigd belang: je kiest zelf je netbedrijf, en de app heeft het bestand daarvoor nodig (art. 6 lid 1 sub f). Wij zetten de logboeken van Bunny.net uit en bewaren niets.
+
+**"Deze zin klopt niet"** (bij feedback): dan gaan altijd ook je taal en de namen van de laatste schermen die je opende mee (bijvoorbeeld "SettingsScreen"), ook als de technische info uit staat. Je ziet ze vóór het versturen.
 
 De technische info in een feedbackbericht staat standaard aan. Je ziet hem vóór het versturen helemaal, en je kunt hem uitzetten of weghalen. Je bericht loopt via je eigen mail- of berichtendienst; daarvoor gelden de voorwaarden van die dienst.
 
