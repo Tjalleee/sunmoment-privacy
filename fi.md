@@ -7,7 +7,7 @@
 SunMoment on sovellus kotitalouksille, joilla on aurinkopaneelit tai ei. Se kertoo, milloin laitteet kannattaa käynnistää: omalla aurinkosähköllä tai sopimuksesi halvoilla tunneilla. Lyhyesti: **sovellus käyttää tuskin lainkaan tietoja, emmekä voi lukea niistä mitään, ellet itse lähetä niitä meille.** Jos yhdistät kotiväkesi, pieni skriptimme säilyttää yhteisen lokinne salattuna. Emme voi lukea sitä.
 
 ## Kuka vastaa tiedoista?
-Gala Apps, yksityinen elinkeinonharjoittaja Alankomaissa, Alankomaiden kauppakamarin (KvK) numero 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, yksityinen elinkeinonharjoittaja Alankomaissa, Alankomaiden kauppakamarin (KvK) numero 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Arvonlisäverotunniste (VAT): NL004472079B57.
 Tietosuojakysymykset: gala.apps11@gmail.com.
 

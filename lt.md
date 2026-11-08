@@ -7,7 +7,7 @@
 SunMoment – tai programėlė namų ūkiams su saulės moduliais arba be jų. Ji jums praneša, kada geriausia įjungti prietaisus: naudojant savo saulės elektrą arba pigiomis jūsų sutarties valandomis. Trumpai: **programėlė beveik nenaudoja duomenų, ir mes negalime jų perskaityti, nebent patys juos mums atsiųstumėte.** Jei susiejate namiškius, nedidelis mūsų scenarijus saugo jūsų bendrą žurnalą, užšifruotą. Mes jo perskaityti negalime.
 
 ## Kas yra duomenų valdytojas?
-Gala Apps, individuali įmonė (vienasmenis verslas) Nyderlanduose, Nyderlandų prekybos rūmų (KvK) numeris 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, individuali įmonė (vienasmenis verslas) Nyderlanduose, Nyderlandų prekybos rūmų (KvK) numeris 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 PVM mokėtojo kodas (VAT): NL004472079B57.
 Klausimai dėl privatumo: gala.apps11@gmail.com.
 

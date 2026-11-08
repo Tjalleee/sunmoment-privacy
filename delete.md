@@ -67,5 +67,5 @@ name, only enough to find your message or block.
   at most 20–30 seconds. Bright Sky is an independent service; ask them
   about their own logs (brightsky.dev).
 
-Gala Apps, Keurenplein 41 Box C9874, 1069CD Amsterdam, the Netherlands ·
+Gala Apps, Schalk Burgerstraat 63, 1092 KN Amsterdam, the Netherlands ·
 KvK 87752131

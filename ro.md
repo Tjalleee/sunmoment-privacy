@@ -7,7 +7,7 @@
 SunMoment este o aplicație pentru gospodării, cu sau fără panouri solare. Îți spune când e cel mai bine să pornești aparatele: pe curentul tău solar sau în orele ieftine din contractul tău. Pe scurt: **aplicația folosește aproape deloc date, iar noi nu putem citi nimic din ele, decât dacă ni le trimiți chiar tu.** Dacă îți conectezi familia, un mic script al nostru păstrează jurnalul vostru comun, criptat. Noi nu îl putem citi.
 
 ## Cine este operatorul?
-Gala Apps, întreprindere individuală în Țările de Jos, număr la Camera de Comerț (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, întreprindere individuală în Țările de Jos, număr la Camera de Comerț (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Cod de înregistrare în scopuri de TVA: NL004472079B57.
 Întrebări despre confidențialitate: gala.apps11@gmail.com.
 

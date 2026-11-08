@@ -69,5 +69,5 @@ je bericht of blok te vinden.
   verzoek hooguit 20–30 seconden in het geheugen. Bright Sky is een
   zelfstandige dienst; vraag hun naar hun eigen logboeken (brightsky.dev).
 
-Gala Apps, Keurenplein 41 Box C9874, 1069CD Amsterdam, Nederland ·
+Gala Apps, Schalk Burgerstraat 63, 1092 KN Amsterdam, Nederland ·
 KvK 87752131

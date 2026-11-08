@@ -7,7 +7,7 @@
 SunMoment es una app para hogares, con o sin placas solares. Te dice cuándo conviene poner tus electrodomésticos: con tu propia electricidad solar o en las horas baratas de tu contrato. En resumen: **la app usa casi ningún dato, y no podemos leer ninguno, salvo lo que tú mismo nos envíes.** Si conectas tu hogar, un pequeño script nuestro guarda vuestro registro común, cifrado. No podemos leerlo.
 
 ## ¿Quién es el responsable del tratamiento?
-Gala Apps, empresa individual (autónomo) en los Países Bajos, número de la Cámara de Comercio (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, empresa individual (autónomo) en los Países Bajos, número de la Cámara de Comercio (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Número de IVA intracomunitario: NL004472079B57.
 Preguntas sobre privacidad: gala.apps11@gmail.com.
 

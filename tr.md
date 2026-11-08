@@ -7,7 +7,7 @@
 SunMoment, güneş paneli olan ya da olmayan haneler için bir uygulamadır. Cihazlarınızı ne zaman çalıştırmanın en iyisi olduğunu söyler: kendi güneş elektriğinizle ya da sözleşmenizin ucuz saatlerinde. Kısaca: **uygulama neredeyse hiç veri kullanmaz ve siz kendiniz göndermedikçe hiçbirini okuyamayız.** Ev halkınızı bağlarsanız, küçük bir betiğimiz ortak kaydınızı şifrelenmiş olarak saklar. Biz onu okuyamayız.
 
 ## Veri sorumlusu kimdir?
-Gala Apps, Hollanda'da şahıs şirketi, Ticaret Odası (KvK) numarası 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, Hollanda'da şahıs şirketi, Ticaret Odası (KvK) numarası 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 KDV kimlik numarası: NL004472079B57.
 Gizlilik soruları: gala.apps11@gmail.com.
 

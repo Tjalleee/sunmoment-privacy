@@ -7,7 +7,7 @@
 SunMoment on äpp kodudele, päikesepaneelidega või ilma. See ütleb, millal on su seadmeid kõige parem käivitada: oma päikeseelektriga või sinu lepingu odavatel tundidel. Lühidalt: **äpp ei kasuta peaaegu mingeid andmeid ja meie ei saa neist midagi lugeda, kui sa neid ise meile ei saada.** Kui ühendad oma pere, hoiab meie väike skript teie ühist logi krüpteeritult. Meie ei saa seda lugeda.
 
 ## Kes vastutab?
-Gala Apps, füüsilisest isikust ettevõtja Madalmaades, Madalmaade kaubanduskoja (KvK) registrinumber 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, füüsilisest isikust ettevõtja Madalmaades, Madalmaade kaubanduskoja (KvK) registrinumber 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Käibemaksukohustuslase number (VAT): NL004472079B57.
 Privaatsusküsimused: gala.apps11@gmail.com.
 

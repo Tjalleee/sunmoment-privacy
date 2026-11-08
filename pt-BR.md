@@ -7,7 +7,7 @@
 O SunMoment é um app para famílias, com ou sem painéis solares. Ele diz quando é melhor ligar os seus aparelhos: com a sua própria energia solar ou nos horários mais baratos do seu contrato. Resposta curta: **o app quase não usa dados, e não conseguimos ler nenhum deles, a não ser que você mesmo os envie.** Se você conectar a sua família, um pequeno script nosso guarda o registro compartilhado de vocês, criptografado. Nós não conseguimos ler.
 
 ## Quem é o controlador?
-Gala Apps, empresário individual na Holanda (Países Baixos), número na Câmara de Comércio (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, empresário individual na Holanda (Países Baixos), número na Câmara de Comércio (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Número de IVA (VAT) na União Europeia: NL004472079B57.
 Dúvidas sobre privacidade: gala.apps11@gmail.com.
 

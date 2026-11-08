@@ -7,7 +7,7 @@
 A SunMoment háztartásoknak szóló app, napelemmel vagy anélkül. Megmondja, mikor érdemes a gépeidet járatni: a saját napelemes áramodon vagy a szerződésed olcsó óráiban. Röviden: **az app szinte semmilyen adatot nem használ, és semmit sem tudunk elolvasni belőle, hacsak te magad el nem küldöd nekünk.** Ha összekapcsolod a háztartásodat, egy kis szkriptünk titkosítva tárolja a közös naplótokat. Mi nem tudjuk elolvasni.
 
 ## Ki az adatkezelő?
-Gala Apps, egyéni vállalkozás (sole proprietorship) Hollandiában, cégjegyzékszám (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, egyéni vállalkozás (sole proprietorship) Hollandiában, cégjegyzékszám (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Közösségi adószám (VAT): NL004472079B57.
 Adatvédelmi kérdések: gala.apps11@gmail.com.
 

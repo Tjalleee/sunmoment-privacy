@@ -7,7 +7,7 @@
 SunMoment is an app for households, with or without solar panels. It tells you when your appliances are best run: on your own solar power or in the cheap hours of your contract. Short answer: **the app uses almost no data, and we cannot read any of it unless you send it to us yourself.** If you link your household, a small script of ours keeps your shared log, encrypted. We cannot read it.
 
 ## Who is responsible?
-Gala Apps, sole proprietorship in the Netherlands, Chamber of Commerce (KvK) number 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, sole proprietorship in the Netherlands, Chamber of Commerce (KvK) number 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 VAT identification number: NL004472079B57.
 Privacy questions: gala.apps11@gmail.com.
 

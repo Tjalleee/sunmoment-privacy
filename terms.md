@@ -12,7 +12,7 @@ consumer, the law wins.
 
 SunMoment is made by **Gala Apps**, a sole proprietorship in the Netherlands.
 
-- Address: Keurenplein 41 Box C9874, 1069CD Amsterdam, the Netherlands
+- Address: Schalk Burgerstraat 63, 1092 KN Amsterdam, the Netherlands
 - Email: gala.apps11@gmail.com
 - Phone: +31 6 11283251
 - Chamber of Commerce (KvK) number: 87752131
@@ -238,7 +238,7 @@ change section 13.
    (ii) you are not listed on any U.S. Government list of prohibited or
    restricted parties.
 8. **Contact.** Questions, complaints or claims about SunMoment go to us:
-   Gala Apps, Keurenplein 41 Box C9874, 1069CD Amsterdam, the Netherlands;
+   Gala Apps, Schalk Burgerstraat 63, 1092 KN Amsterdam, the Netherlands;
    phone +31 6 11283251; email gala.apps11@gmail.com.
 9. **Third-party terms.** When you use SunMoment, you must also comply with
    the terms of third parties that apply to you, such as your agreement with
@@ -250,6 +250,6 @@ change section 13.
 
 ## Contact
 
-Gala Apps, Keurenplein 41 Box C9874, 1069CD Amsterdam, the Netherlands.
+Gala Apps, Schalk Burgerstraat 63, 1092 KN Amsterdam, the Netherlands.
 Email: gala.apps11@gmail.com.
 Phone: +31 6 11283251.

@@ -7,7 +7,7 @@
 SunMoment est une appli pour les foyers, avec ou sans panneaux solaires. Elle vous indique quand faire tourner vos appareils : sur votre propre électricité solaire ou pendant les heures creuses de votre contrat. En bref : **l’appli n’utilise presque aucune donnée, et nous ne pouvons rien en lire, sauf ce que vous nous envoyez vous-même.** Si vous reliez votre foyer, un petit script à nous garde votre journal commun, chiffré. Nous ne pouvons pas le lire.
 
 ## Qui est responsable ?
-Gala Apps, entreprise individuelle aux Pays-Bas, numéro à la Chambre de commerce (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, entreprise individuelle aux Pays-Bas, numéro à la Chambre de commerce (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Numéro de TVA intracommunautaire : NL004472079B57.
 Questions sur la confidentialité : gala.apps11@gmail.com.
 

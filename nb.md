@@ -7,7 +7,7 @@
 SunMoment er en app for husstander, med eller uten solceller. Den forteller deg når apparatene dine best bør gå: på din egen solstrøm eller i de billige timene i strømavtalen din. Det korte svaret: **appen bruker nesten ingen opplysninger, og vi kan ikke lese noe av dem, med mindre du selv sender dem til oss.** Kobler du sammen husstanden din, lagrer et lite skript fra oss den felles loggen deres, kryptert. Vi kan ikke lese den.
 
 ## Hvem er behandlingsansvarlig?
-Gala Apps, enkeltpersonforetak i Nederland, nummer i det nederlandske handelsregisteret (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, enkeltpersonforetak i Nederland, nummer i det nederlandske handelsregisteret (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Mva-identifikasjonsnummer: NL004472079B57.
 Spørsmål om personvern: gala.apps11@gmail.com.
 

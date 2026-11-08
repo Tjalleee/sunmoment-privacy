@@ -7,7 +7,7 @@
 SunMoment to aplikacja dla gospodarstw domowych, z panelami słonecznymi lub bez nich. Mówi ci, kiedy najlepiej włączać urządzenia: na własnym prądzie ze słońca albo w tanich godzinach twojej umowy. W skrócie: **aplikacja nie używa prawie żadnych danych, a my nie możemy odczytać żadnych z nich, chyba że sam nam je wyślesz.** Jeśli połączysz domowników, nasz mały skrypt przechowuje wasz wspólny dziennik, zaszyfrowany. Nie możemy go odczytać.
 
 ## Kto jest administratorem danych?
-Gala Apps, jednoosobowa działalność gospodarcza w Holandii, numer w holenderskiej Izbie Handlowej (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, jednoosobowa działalność gospodarcza w Holandii, numer w holenderskiej Izbie Handlowej (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 Numer identyfikacyjny VAT: NL004472079B57.
 Pytania dotyczące prywatności: gala.apps11@gmail.com.
 

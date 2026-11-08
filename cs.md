@@ -7,7 +7,7 @@
 SunMoment je aplikace pro domácnosti, se solárními panely i bez nich. Řekne vám, kdy je nejlepší pustit spotřebiče: na vlastní solární elektřinu, nebo v levných hodinách vaší smlouvy. Stručně: **aplikace používá téměř žádná data a nic z nich nemůžeme číst, pokud nám je sami nepošlete.** Když propojíte domácnost, náš malý skript uchovává váš sdílený záznam, šifrovaně. Nemůžeme ho číst.
 
 ## Kdo je správce?
-Gala Apps, fyzická osoba podnikající (sole proprietorship) v Nizozemsku, číslo v obchodním rejstříku (KvK) 87752131, Keurenplein 41 Box C9874, 1069CD Amsterdam.
+Gala Apps, fyzická osoba podnikající (sole proprietorship) v Nizozemsku, číslo v obchodním rejstříku (KvK) 87752131, Schalk Burgerstraat 63, 1092 KN Amsterdam.
 DIČ pro DPH (VAT): NL004472079B57.
 Dotazy k ochraně osobních údajů: gala.apps11@gmail.com.
 
