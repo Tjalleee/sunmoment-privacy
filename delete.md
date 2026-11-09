@@ -2,7 +2,7 @@
 
 # Delete your SunMoment data
 
-*SunMoment by Gala Apps · 8 November 2026*
+*SunMoment by Gala Apps · 9 November 2026*
 
 SunMoment has **no account**. Almost everything stays on your own phone, so
 in most cases you delete it yourself, at once. This page shows how, per kind
@@ -15,7 +15,13 @@ Your settings, your town, your roof, your appliances, how you pay for
 electricity (contract, prices, cheap hours, feed-in costs), your log of
 runs and tips, the list "What did the app do online?", a one-time copy of a
 setting or log the app could not read, your trial details and what you paid
-are stored only on your phone.
+are stored on your phone. Your week schedule, a period when you are away,
+your quiet hours, your own price per kWh, your exported kWh and your heat
+pump and the size of your home battery are stored only there too. If you
+have more than one house, the settings and logs of every house are on your
+phone; uninstalling the app or clearing its data removes all houses. If you link your household, your runs and
+your house's settings are also stored, encrypted, at Bunny.net (see
+section 2).
 
 - **Android:** uninstall SunMoment, or choose Settings → Apps → SunMoment →
   Storage → Clear data.
@@ -25,21 +31,27 @@ are stored only on your phone.
 
 This deletes it immediately. Nothing is kept.
 
-**Files you made yourself:** a file from Settings → Move to a new phone, or
-a month picture you shared, is wherever you put it (for example your mail,
+**Files you made yourself:** a file from Settings → Move to a new phone, a
+month picture you shared, a calendar file (.ics) of a run or your log as a
+spreadsheet (CSV) is wherever you put it (for example your mail,
 a cloud drive or Files). The app never sends these to us. Delete them there
 yourself; we cannot reach them.
 
 ## 2. Household sync (only if you linked your household)
 
-The encrypted block with your runs is stored at Bunny.net (in the EU) on
-our behalf. Nobody but the linked phones can read it.
+The encrypted block with your runs and your house's settings (your town,
+roof, appliances and timers, contract and prices, grid company and car) is
+stored at Bunny.net (in the EU) on our behalf. Nobody but the linked phones
+can read it.
 
 - In the app: Settings → Household → **Unlink**. Your block is deleted from
   the server at once.
 - Already uninstalled the app without unlinking? A block that is not updated
   for **90 days** is deleted automatically. Want it gone sooner? Email us
   (see section 4).
+- If a household member took over your settings (with the button for that),
+  they are now the settings on their phone. Only they can delete them, on
+  their phone (see section 1).
 
 ## 3. Feedback messages you sent us
 
