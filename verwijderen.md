@@ -2,7 +2,7 @@
 
 # Je SunMoment-gegevens verwijderen
 
-*SunMoment van Gala Apps · 9 november 2026*
+*SunMoment van Gala Apps · 12 november 2026*
 
 SunMoment heeft **geen account**. Bijna alles staat alleen op je eigen
 telefoon. Meestal verwijder je het dus zelf, meteen. Hieronder staat per
@@ -16,8 +16,9 @@ Je instellingen, je plaats, je dak, je apparaten, hoe je je stroom betaalt
 beurten en tips, de lijst "Wat deed de app online?", een eenmalige kopie van
 een instelling of logboek dat de app niet kon lezen, de gegevens van je proef
 en wat je betaalde staan op je telefoon. Ook je weekrooster, een periode dat
-je weg bent, je stille uren, je eigen prijs per kWh, je teruggeleverde kWh,
-je warmtepomp en de grootte van je thuisbatterij staan alleen daar. Heb je meer
+je weg bent, je stille uren, hoe vol je thuisbatterij nu is (als je dat
+invult), hoeveel kWh je thuisbatterij aan een beurt gaf en de apparaten die
+je vandaag overslaat, staan alleen daar. Heb je meer
 dan één huis, dan staan de instellingen en logboeken van elk huis op je
 telefoon; de app verwijderen of de gegevens wissen haalt alle huizen weg. Koppel je huisgenoten, dan staan je beurten
 en de instellingen van je huis ook versleuteld bij Bunny.net (zie punt 2).
@@ -39,8 +40,9 @@ stuurt die nooit naar ons. Wis ze daar zelf; wij kunnen er niet bij.
 
 ## 2. Huisgenoten-sync (alleen als je je huishouden koppelde)
 
-Het versleutelde blok met je beurten en de instellingen van je huis (je
-plaats, dak, apparaten en timers, contract en prijzen, netbedrijf en auto)
+Het versleutelde blok met je beurten, de apparaten die je vandaag op "Al
+gedaan" zette, en de instellingen van je huis (je plaats, dak, thuisbatterij,
+apparaten en timers, contract en prijzen, warmtepomp, netbedrijf en auto)
 staat in onze opdracht bij Bunny.net (in de EU). Alleen de gekoppelde
 telefoons kunnen het lezen.
 

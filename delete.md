@@ -2,7 +2,7 @@
 
 # Delete your SunMoment data
 
-*SunMoment by Gala Apps · 9 November 2026*
+*SunMoment by Gala Apps · 12 November 2026*
 
 SunMoment has **no account**. Almost everything stays on your own phone, so
 in most cases you delete it yourself, at once. This page shows how, per kind
@@ -16,8 +16,9 @@ electricity (contract, prices, cheap hours, feed-in costs), your log of
 runs and tips, the list "What did the app do online?", a one-time copy of a
 setting or log the app could not read, your trial details and what you paid
 are stored on your phone. Your week schedule, a period when you are away,
-your quiet hours, your own price per kWh, your exported kWh and your heat
-pump and the size of your home battery are stored only there too. If you
+your quiet hours, how full your home battery is now (if you enter it), how
+many kWh your home battery gave a run and the appliances you skip today are
+stored only there too. If you
 have more than one house, the settings and logs of every house are on your
 phone; uninstalling the app or clearing its data removes all houses. If you link your household, your runs and
 your house's settings are also stored, encrypted, at Bunny.net (see
@@ -39,8 +40,9 @@ yourself; we cannot reach them.
 
 ## 2. Household sync (only if you linked your household)
 
-The encrypted block with your runs and your house's settings (your town,
-roof, appliances and timers, contract and prices, grid company and car) is
+The encrypted block with your runs, the appliances you marked "Already
+done" today, and your house's settings (your town, roof, home battery,
+appliances and timers, contract and prices, heat pump, grid company and car) is
 stored at Bunny.net (in the EU) on our behalf. Nobody but the linked phones
 can read it.
 
