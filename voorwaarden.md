@@ -2,7 +2,7 @@
 
 # Gebruiksvoorwaarden SunMoment
 
-*Versie 1.2, 8 november 2026 (eerste versie: 4 november 2026)*
+*Versie 1.3, 13 november 2026 (eerste versie: 4 november 2026)*
 
 *Dit is een vertaling. De Engelse tekst is bindend (zie punt 14).*
 
@@ -92,23 +92,28 @@ advies van de app nooit op een onveilige manier.
 
 ## 6. Herroepingsrecht en terugbetalen
 
-- **Wettelijk herroepingsrecht (EU, EER, VK).** Bij een aankoop online heb je
-  meestal 14 dagen om af te zien van de koop. Bij digitale inhoud die je
-  meteen krijgt, vervalt dat recht zodra je de inhoud krijgt, als je hebt
-  ingestemd met directe levering en hebt bevestigd dat je je
-  herroepingsrecht verliest. Google Play of de App Store vraagt dat bij het
-  kopen. Is dat niet goed gegaan, dan houd je 14 dagen na de koop je
-  herroepingsrecht.
-- **Zo herroep je of vraag je je geld terug.** De winkel waar je kocht,
-  regelt de terugbetaling, volgens zijn eigen beleid:
-  - Google Play (Android): volgens het
-    [terugbetaalbeleid van Google Play](https://support.google.com/googleplay/answer/2479637);
-  - App Store (iPhone en iPad): via
+- **Niet tevreden? Binnen 14 dagen krijg je je geld terug.** Je hebt 14
+  dagen na de aankoop om ervan af te zien. Een reden hoef je niet te geven.
+  Dat geldt in elk land, ook buiten de EU, de EER en het VK. Wij vragen je
+  niet om afstand te doen van je herroepingsrecht, ook al kun je de app
+  meteen gebruiken.
+- **Zo vraag je je geld terug.**
+  - Google Play (Android): stuur ons binnen 14 dagen een bericht
+    (Instellingen → Vragen en hulp, of het e-mailadres onder "Contact").
+    Zet erbij met welk Google-account je kocht of het ordernummer uit de
+    mail van Google Play (GPA.…). Wij betalen het hele bedrag terug via
+    Google Play, zo snel als we kunnen en uiterlijk binnen 14 dagen na je
+    bericht. Je kunt het ook aan Google vragen, volgens het
+    [terugbetaalbeleid van Google Play](https://support.google.com/googleplay/answer/2479637).
+  - App Store (iPhone en iPad): Apple regelt de betaling en de
+    terugbetaling; wij kunnen een aankoop in de App Store niet zelf
+    terugbetalen. Vraag het aan via
     [reportaproblem.apple.com](https://reportaproblem.apple.com), zoals Apple
     uitlegt in [Een terugbetaling aanvragen voor apps of materiaal die je van Apple hebt gekocht](https://support.apple.com/nl-nl/118223).
-
-  Je kunt ons ook mailen. We helpen je. Of het beleid van de winkel je geld
-  teruggeeft, verandert niets aan je wettelijke rechten hieronder.
+    Lukt dat niet binnen de 14 dagen? Mail ons, dan zoeken we samen een
+    oplossing.
+- **Na de terugbetaling gaat de volledige versie weer dicht.** Wat gratis
+  is, blijft gratis, en je gegevens blijven op je telefoon.
 - **Je wettelijke rechten blijven gelden.** Werkt de app niet zoals
   beschreven of zoals je redelijkerwijs mag verwachten, dan heb je de rechten
   die de wet je geeft, zoals herstel, prijsvermindering of je geld terug.

@@ -2,7 +2,7 @@
 
 # SunMoment Terms of Use
 
-*Version 1.2, 8 November 2026 (first version: 4 November 2026)*
+*Version 1.3, 13 November 2026 (first version: 4 November 2026)*
 
 These terms apply when you use the SunMoment app. They are short, because the
 app is simple. If anything here conflicts with the law that protects you as a
@@ -91,23 +91,27 @@ unsafe.
 
 ## 6. Right of withdrawal and refunds
 
-- **Statutory right of withdrawal (EU, EEA, UK).** You normally have 14 days
-  to withdraw from an online purchase. For digital content that you get
-  immediately, this right ends when the content is delivered, if you agreed
-  to immediate delivery and confirmed that you lose the right of withdrawal.
-  Google Play or the App Store asks for this when you buy. If that did not
-  happen correctly, you keep your right of withdrawal for 14 days after the
-  purchase.
-- **How to withdraw or ask for a refund.** The store that sold you the app
-  handles refunds, under its own policy:
-  - Google Play (Android): following
-    [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637);
-  - App Store (iPhone and iPad): at
+- **Not happy? You get your money back within 14 days.** You have 14 days
+  after the purchase to withdraw from it. You do not have to give a reason.
+  This applies in every country, also outside the EU, the EEA and the UK. We
+  do not ask you to waive your right of withdrawal, even though you can use
+  the app right away.
+- **How to ask for your money back.**
+  - Google Play (Android): send us a message within 14 days (Settings →
+    Feedback & help, or the email address under "Contact"). Tell us which
+    Google account you bought with, or the order number from Google Play's
+    email (GPA.…). We refund the full amount through Google Play, as soon as
+    we can and no later than 14 days after your message. You can also ask
+    Google, under
+    [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637).
+  - App Store (iPhone and iPad): Apple handles the payment and the refund;
+    we cannot refund an App Store purchase ourselves. Ask at
     [reportaproblem.apple.com](https://reportaproblem.apple.com), as Apple
     explains in [Request a refund for apps or content that you bought from Apple](https://support.apple.com/en-us/118223).
-
-  You can also email us. We will help. Whether the store's policy gives a
-  refund does not change your statutory rights below.
+    If that does not work within the 14 days, email us and we will find a
+    solution together.
+- **After the refund the full version closes again.** What is free stays
+  free, and your data stays on your phone.
 - **Your legal rights are not affected.** If the app does not work as
   described or as you may reasonably expect, you have the rights the law gives
   you, such as repair, a price reduction or your money back. Nothing in these
