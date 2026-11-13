@@ -2,7 +2,7 @@
 
 # Tietosuojaseloste SunMoment (suomi)
 
-*Päivitetty viimeksi: 12. marraskuuta 2026*
+*Päivitetty viimeksi: 13. marraskuuta 2026*
 
 SunMoment on sovellus kotitalouksille, joilla on aurinkopaneelit tai ei. Se kertoo, milloin laitteet kannattaa käynnistää: omalla aurinkosähköllä tai sopimuksesi halvoilla tunneilla. Lyhyesti: **sovellus käyttää tuskin lainkaan tietoja, emmekä voi lukea niistä mitään, ellet itse lähetä niitä meille.** Jos yhdistät kotiväkesi, pieni skriptimme säilyttää yhteisen lokinne salattuna. Emme voi lukea sitä.
 
@@ -40,7 +40,7 @@ iPhonessa tai iPadissa sovellus hakee sään vain omista säätiedostoistamme Bu
 
 **”Tämä lause on väärin”** (palautteessa): silloin mukaan lähtevät aina myös kielesi ja viimeksi avaamiesi näkymien nimet (esimerkiksi ”SettingsScreen”), vaikka tekniset tiedot olisivat pois päältä. Näet ne ennen lähettämistä.
 
-Tekniset tiedot ovat oletuksena mukana. Näet ne kokonaan ennen lähettämistä ja voit ottaa ne pois tai poistaa ne. Meillä **ei ole omaa palvelinta**, vain pieni synkronointiskripti Bunny.netissä. Se toimii vain, jos yhdistät kotiväkesi, ja se säilyttää vain salattuja lohkoja, joita emme voi lukea. Muuten sovellus ei lähetä meille itsestään mitään.
+Tekniset tiedot ovat oletuksena mukana. Näet ne kokonaan ennen lähettämistä ja voit ottaa ne pois tai poistaa ne. Meillä **ei ole omaa palvelinta**, vain pieni synkronointiskripti Bunny.netissä. Se toimii vain, jos yhdistät kotiväkesi, ja se säilyttää vain salattuja lohkoja, joita emme voi lukea. Jos annat puhelimellesi nimen kotiväkeäsi varten (esimerkiksi ”Anna”), nimi kulkee näiden salattujen lohkojen sisällä; vain kotiväkesi näkee sen. Väärinkäytön estämiseksi skripti laskee, montako uutta yhdistämistä yhdestä internetosoitteesta tulee tunnissa. Sitä varten se pitää IP-osoitteestasi tunnistamattomaksi tehtyä muotoa (tiivistettä, jossa on satunnaisarvo) työmuistissaan enintään noin tunnin. Sitä ei tallenneta, ei kirjata lokiin eikä liitetä mihinkään kotiväkeen. Muuten sovellus ei lähetä meille itsestään mitään.
 
 **Euroopan ulkopuolella:** vaikka asuisit Euroopan ulkopuolella, kaikki sää-, hinta- ja siirtohintatiedostot säilytetään ja toimitetaan vain Bunny.netin EU:ssa olevilta palvelimilta. Bunny.net (Slovenia) toimii tietojenkäsittelysopimuksemme mukaisesti.
 

@@ -2,7 +2,7 @@
 
 # Informativa sulla privacy SunMoment (italiano)
 
-*Ultimo aggiornamento: 12 novembre 2026*
+*Ultimo aggiornamento: 13 novembre 2026*
 
 SunMoment è un’app per le famiglie, con o senza pannelli solari. Ti dice quando conviene far partire i tuoi elettrodomestici: con la tua energia solare o nelle fasce economiche del tuo contratto. In breve: **l’app usa pochissimi dati, e noi non possiamo leggerne nessuno, a meno che non sia tu a mandarceli.** Se colleghi la tua famiglia, un nostro piccolo script conserva il vostro registro comune, crittografato. Noi non possiamo leggerlo.
 
@@ -40,7 +40,7 @@ Su un iPhone o un iPad l’app chiede il meteo solo ai nostri file meteo su Bunn
 
 **«Questa frase è sbagliata»** (nel feedback): allora partono sempre anche la tua lingua e i nomi delle ultime schermate che hai aperto (per esempio «SettingsScreen»), anche se le informazioni tecniche sono disattivate. Li vedi prima dell’invio.
 
-Le informazioni tecniche sono attive per impostazione predefinita. Le vedi per intero prima dell’invio e puoi disattivarle o cancellarle. **Non abbiamo un server nostro**, solo un piccolo script di sincronizzazione su Bunny.net. Funziona solo se colleghi la tua famiglia, e conserva solo blocchi crittografati che non possiamo leggere. A parte questo, l’app non ci manda nulla da sé.
+Le informazioni tecniche sono attive per impostazione predefinita. Le vedi per intero prima dell’invio e puoi disattivarle o cancellarle. **Non abbiamo un server nostro**, solo un piccolo script di sincronizzazione su Bunny.net. Funziona solo se colleghi la tua famiglia, e conserva solo blocchi crittografati che non possiamo leggere. Se dai un nome al tuo telefono per la tua famiglia (per esempio «Anna»), quel nome viaggia dentro quei blocchi crittografati; lo vede solo la tua famiglia. Contro gli abusi, lo script conta quanti nuovi collegamenti arrivano in un’ora da uno stesso indirizzo internet. Per questo tiene una forma irriconoscibile del tuo indirizzo IP (un hash con un valore casuale) nella sua memoria di lavoro per circa un’ora al massimo. Non viene salvata, non finisce in un registro e non è legata a nessuna famiglia. A parte questo, l’app non ci manda nulla da sé.
 
 **Fuori dall’Europa:** anche se vivi fuori dall’Europa, tutti i file meteo, dei prezzi e delle tariffe di rete sono conservati e distribuiti solo da server di Bunny.net nell’UE. Bunny.net (Slovenia) opera in base al nostro accordo sul trattamento dei dati.
 

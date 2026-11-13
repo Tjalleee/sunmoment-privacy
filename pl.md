@@ -2,7 +2,7 @@
 
 # Polityka prywatności SunMoment (polski)
 
-*Ostatnia aktualizacja: 12 listopada 2026*
+*Ostatnia aktualizacja: 13 listopada 2026*
 
 SunMoment to aplikacja dla gospodarstw domowych, z panelami słonecznymi lub bez nich. Mówi ci, kiedy najlepiej włączać urządzenia: na własnym prądzie ze słońca albo w tanich godzinach twojej umowy. W skrócie: **aplikacja nie używa prawie żadnych danych, a my nie możemy odczytać żadnych z nich, chyba że sam nam je wyślesz.** Jeśli połączysz domowników, nasz mały skrypt przechowuje wasz wspólny dziennik, zaszyfrowany. Nie możemy go odczytać.
 
@@ -40,7 +40,7 @@ Na iPhonie lub iPadzie aplikacja pobiera pogodę tylko z naszych własnych plik�
 
 **„To zdanie jest błędne”** (przy opinii): wtedy zawsze wysyłane są też twój język i nazwy ostatnio otwartych ekranów (na przykład „SettingsScreen”), nawet gdy informacje techniczne są wyłączone. Widzisz je przed wysłaniem.
 
-Informacje techniczne są domyślnie włączone. Przed wysłaniem widzisz je w całości i możesz je wyłączyć lub usunąć. **Nie prowadzimy własnego serwera**, tylko mały skrypt synchronizacji w Bunny.net. Działa on tylko wtedy, gdy połączysz domowników, i przechowuje wyłącznie zaszyfrowane bloki, których nie możemy odczytać. Poza tym aplikacja sama niczego nam nie wysyła.
+Informacje techniczne są domyślnie włączone. Przed wysłaniem widzisz je w całości i możesz je wyłączyć lub usunąć. **Nie prowadzimy własnego serwera**, tylko mały skrypt synchronizacji w Bunny.net. Działa on tylko wtedy, gdy połączysz domowników, i przechowuje wyłącznie zaszyfrowane bloki, których nie możemy odczytać. Jeśli nadasz telefonowi nazwę dla domowników (na przykład „Anna”), ta nazwa podróżuje w tych zaszyfrowanych blokach; widzą ją tylko twoi domownicy. Aby ograniczyć nadużycia, skrypt liczy, ile nowych połączeń domowników przychodzi w ciągu godziny z jednego adresu internetowego. W tym celu trzyma nierozpoznawalną postać twojego adresu IP (skrót z losową wartością) w swojej pamięci roboczej najwyżej przez około godzinę. Nie jest ona zapisywana, nie trafia do logów i nie jest wiązana z żadnymi domownikami. Poza tym aplikacja sama niczego nam nie wysyła.
 
 **Poza Europą:** nawet jeśli mieszkasz poza Europą, wszystkie pliki pogodowe, cenowe i z taryfami sieciowymi są przechowywane i dostarczane wyłącznie z serwerów Bunny.net w UE. Bunny.net (Słowenia) działa na podstawie naszej umowy powierzenia przetwarzania danych.
 

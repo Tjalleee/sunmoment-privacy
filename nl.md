@@ -2,7 +2,7 @@
 
 # Privacyverklaring SunMoment
 
-*Laatst bijgewerkt: 12 november 2026*
+*Laatst bijgewerkt: 13 november 2026*
 
 SunMoment is een app voor huishoudens, met of zonder zonnepanelen. De app vertelt wanneer je apparaten het best kunnen draaien: op je eigen zonnestroom of in de goedkope uren van je contract. Het korte antwoord: **de app gebruikt bijna geen gegevens, en wij kunnen niets ervan lezen, behalve wat je ons zelf stuurt.** Koppel je huisgenoten, dan bewaart een klein script van ons jullie logboek, versleuteld. Wij kunnen dat niet lezen.
 
@@ -48,7 +48,7 @@ Op een iPhone of iPad vraagt de app het weer alleen bij onze eigen weerbestanden
 
 De technische info in een feedbackbericht staat standaard aan. Je ziet hem vóór het versturen helemaal, en je kunt hem uitzetten of weghalen. Je bericht loopt via je eigen mail- of berichtendienst; daarvoor gelden de voorwaarden van die dienst.
 
-Wij hebben **geen eigen server**, alleen een klein synchronisatiescript bij Bunny.net. Dat werkt alleen als je huisgenoten koppelt, en bewaart alleen versleutelde blokken die wij niet kunnen lezen. Verder stuurt de app ons uit zichzelf niets.
+Wij hebben **geen eigen server**, alleen een klein synchronisatiescript bij Bunny.net. Dat werkt alleen als je huisgenoten koppelt, en bewaart alleen versleutelde blokken die wij niet kunnen lezen. Geef je je telefoon een naam voor je huisgenoten (bijvoorbeeld "Anna"), dan gaat die naam mee in die versleutelde blokken; alleen je huisgenoten zien hem. Tegen misbruik telt het script hoeveel nieuwe koppelingen er per uur van één internetadres komen. Daarvoor houdt het een onherkenbaar gemaakte vorm van je IP-adres (een hash met een toevallig getal erbij) hooguit ongeveer een uur in zijn werkgeheugen. Die wordt niet opgeslagen, staat niet in een logboek en hangt niet aan een huishouden. Verder stuurt de app ons uit zichzelf niets.
 
 **Buiten Europa:** ook als je buiten Europa woont, worden alle weer-, prijs- en nettariefbestanden alleen bewaard op en geleverd vanaf servers van Bunny.net in de EU. Bunny.net (Slovenië) werkt onder onze verwerkersovereenkomst.
 

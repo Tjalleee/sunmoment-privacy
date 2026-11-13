@@ -2,7 +2,7 @@
 
 # Personvernerklæring for SunMoment (norsk bokmål)
 
-*Sist oppdatert: 12. november 2026*
+*Sist oppdatert: 13. november 2026*
 
 SunMoment er en app for husstander, med eller uten solceller. Den forteller deg når apparatene dine best bør gå: på din egen solstrøm eller i de billige timene i strømavtalen din. Det korte svaret: **appen bruker nesten ingen opplysninger, og vi kan ikke lese noe av dem, med mindre du selv sender dem til oss.** Kobler du sammen husstanden din, lagrer et lite skript fra oss den felles loggen deres, kryptert. Vi kan ikke lese den.
 
@@ -40,7 +40,7 @@ På en iPhone eller iPad spør appen bare våre egne værfiler hos Bunny.net om 
 
 **«Denne setningen er feil»** (ved tilbakemelding): da følger alltid språket ditt og navnene på de siste skjermene du åpnet med (for eksempel «SettingsScreen»), også når den tekniske infoen er slått av. Du ser dem før du sender.
 
-Den tekniske infoen er slått på som standard. Du ser den i sin helhet før du sender, og kan slå den av eller slette den. Vi har **ingen egen server**, bare et lite synkroniseringsskript hos Bunny.net. Det fungerer bare hvis du kobler sammen husstanden din, og det lagrer bare krypterte blokker som vi ikke kan lese. Ellers sender appen ingenting til oss av seg selv.
+Den tekniske infoen er slått på som standard. Du ser den i sin helhet før du sender, og kan slå den av eller slette den. Vi har **ingen egen server**, bare et lite synkroniseringsskript hos Bunny.net. Det fungerer bare hvis du kobler sammen husstanden din, og det lagrer bare krypterte blokker som vi ikke kan lese. Gir du telefonen din et navn for husstanden (for eksempel «Anna»), følger navnet med i disse krypterte blokkene; bare husstanden din ser det. Mot misbruk teller skriptet hvor mange nye koblinger som kommer fra én internettadresse per time. Til det holder det en ugjenkjennelig form av IP-adressen din (en hash med en tilfeldig verdi) i arbeidsminnet sitt i høyst omtrent en time. Den blir ikke lagret, ikke logget og ikke knyttet til en husstand. Ellers sender appen ingenting til oss av seg selv.
 
 **Utenfor Europa:** også hvis du bor utenfor Europa, blir alle vær-, pris- og nettleiefiler bare lagret på og levert fra Bunny.net-servere i EU. Bunny.net (Slovenia) arbeider etter databehandleravtalen vår.
 

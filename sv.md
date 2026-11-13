@@ -2,7 +2,7 @@
 
 # Integritetspolicy för SunMoment (svenska)
 
-*Senast uppdaterad: 12 november 2026*
+*Senast uppdaterad: 13 november 2026*
 
 SunMoment är en app för hushåll, med eller utan solceller. Den talar om när dina apparater helst ska gå: på din egen solel eller under de billiga timmarna i ditt elavtal. Det korta svaret: **appen använder nästan inga uppgifter, och vi kan inte läsa något av dem, om du inte själv skickar dem till oss.** Kopplar du ihop ditt hushåll sparar ett litet skript från oss er gemensamma logg, krypterad. Vi kan inte läsa den.
 
@@ -40,7 +40,7 @@ På en iPhone eller iPad frågar appen bara våra egna väderfiler hos Bunny.net
 
 **”Den här meningen är fel”** (vid feedback): då följer alltid ditt språk och namnen på de senaste skärmarna du öppnade med (till exempel ”SettingsScreen”), även när den tekniska infon är avstängd. Du ser dem innan du skickar.
 
-Den tekniska infon är på som standard. Du ser den i sin helhet innan du skickar och kan stänga av den eller radera den. Vi har **ingen egen server**, bara ett litet synkroniseringsskript hos Bunny.net. Det fungerar bara om du kopplar ihop ditt hushåll, och det sparar bara krypterade block som vi inte kan läsa. Utöver det skickar appen ingenting till oss av sig själv.
+Den tekniska infon är på som standard. Du ser den i sin helhet innan du skickar och kan stänga av den eller radera den. Vi har **ingen egen server**, bara ett litet synkroniseringsskript hos Bunny.net. Det fungerar bara om du kopplar ihop ditt hushåll, och det sparar bara krypterade block som vi inte kan läsa. Ger du din telefon ett namn för ditt hushåll (till exempel ”Anna”), följer namnet med i de krypterade blocken; bara ditt hushåll ser det. Mot missbruk räknar skriptet hur många nya kopplingar som kommer från en och samma internetadress per timme. För det håller det en oigenkännlig form av din IP-adress (en hash med ett slumpvärde) i sitt arbetsminne i högst ungefär en timme. Den sparas inte, loggas inte och knyts inte till något hushåll. Utöver det skickar appen ingenting till oss av sig själv.
 
 **Utanför Europa:** även om du bor utanför Europa lagras och levereras alla väder-, pris- och nättariffiler bara från Bunny.net-servrar i EU. Bunny.net (Slovenien) arbetar enligt vårt personuppgiftsbiträdesavtal.
 

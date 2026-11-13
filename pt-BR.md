@@ -2,7 +2,7 @@
 
 # Política de Privacidade do SunMoment (português do Brasil)
 
-*Última atualização: 12 de novembro de 2026*
+*Última atualização: 13 de novembro de 2026*
 
 O SunMoment é um app para famílias, com ou sem painéis solares. Ele diz quando é melhor ligar os seus aparelhos: com a sua própria energia solar ou nos horários mais baratos do seu contrato. Resposta curta: **o app quase não usa dados, e não conseguimos ler nenhum deles, a não ser que você mesmo os envie.** Se você conectar a sua família, um pequeno script nosso guarda o registro compartilhado de vocês, criptografado. Nós não conseguimos ler.
 
@@ -40,7 +40,7 @@ No iPhone ou no iPad, o app pede o tempo só aos nossos próprios arquivos de te
 
 **"Esta frase está errada"** (no feedback): seu idioma e os nomes das últimas telas que você abriu (por exemplo, "SettingsScreen") sempre vão junto, mesmo com a informação técnica desligada. Você os vê antes de enviar.
 
-A informação técnica vem ativada por padrão. Você vê tudo antes de enviar e pode desativar ou apagar. **Não temos servidor próprio**, só um pequeno script de sincronização na Bunny.net. Ele só funciona se você conectar a sua família, e só guarda blocos criptografados que não conseguimos ler. Fora isso, o app não nos envia nada sozinho.
+A informação técnica vem ativada por padrão. Você vê tudo antes de enviar e pode desativar ou apagar. **Não temos servidor próprio**, só um pequeno script de sincronização na Bunny.net. Ele só funciona se você conectar a sua família, e só guarda blocos criptografados que não conseguimos ler. Se você der um nome ao seu celular para a sua família (por exemplo "Ana"), esse nome vai dentro desses blocos criptografados; só a sua família o vê. Contra abusos, o script conta quantas conexões novas chegam por hora de um mesmo endereço de internet. Para isso, ele mantém uma forma irreconhecível do seu endereço IP (um hash com um valor aleatório) na memória de trabalho por cerca de uma hora no máximo. Ela não é guardada, não é registrada em log e não é ligada a nenhuma família. Fora isso, o app não nos envia nada sozinho.
 
 **Fora da Europa:** mesmo que você more fora da Europa, todos os arquivos de tempo, de preços e de tarifas de rede são guardados e entregues apenas a partir de servidores da Bunny.net na UE. A Bunny.net (Eslovênia) atua de acordo com o nosso acordo de tratamento de dados.
 

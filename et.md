@@ -2,7 +2,7 @@
 
 # SunMomenti privaatsuspoliitika (eesti)
 
-*Viimati uuendatud: 12. november 2026*
+*Viimati uuendatud: 13. november 2026*
 
 SunMoment on äpp kodudele, päikesepaneelidega või ilma. See ütleb, millal on su seadmeid kõige parem käivitada: oma päikeseelektriga või sinu lepingu odavatel tundidel. Lühidalt: **äpp ei kasuta peaaegu mingeid andmeid ja meie ei saa neist midagi lugeda, kui sa neid ise meile ei saada.** Kui ühendad oma pere, hoiab meie väike skript teie ühist logi krüpteeritult. Meie ei saa seda lugeda.
 
@@ -40,7 +40,7 @@ iPhone'is või iPadis küsib äpp ilma ainult meie oma ilmafailidest Bunny.netis
 
 **„See lause on vale“** (tagasiside juures): siis lähevad alati kaasa ka sinu keel ja viimati avatud ekraanide nimed (näiteks „SettingsScreen“), isegi kui tehniline teave on välja lülitatud. Näed neid enne saatmist.
 
-Tehniline teave on vaikimisi sees. Näed seda enne saatmist täielikult ning saad selle välja lülitada või kustutada. Meil **pole oma serverit**, ainult väike sünkroonimisskript Bunny.netis. See töötab ainult siis, kui ühendad oma pere, ja hoiab ainult krüpteeritud plokke, mida meie lugeda ei saa. Muul juhul ei saada äpp meile ise midagi.
+Tehniline teave on vaikimisi sees. Näed seda enne saatmist täielikult ning saad selle välja lülitada või kustutada. Meil **pole oma serverit**, ainult väike sünkroonimisskript Bunny.netis. See töötab ainult siis, kui ühendad oma pere, ja hoiab ainult krüpteeritud plokke, mida meie lugeda ei saa. Kui annad oma telefonile pere jaoks nime (näiteks „Anna“), liigub see nimi nende krüpteeritud plokkide sees; seda näeb ainult sinu pere. Kuritarvituse vastu loeb skript, mitu uut ühendamist tuleb tunnis ühelt internetiaadressilt. Selleks hoiab see sinu IP-aadressi tundmatuks muudetud kuju (juhusliku väärtusega räsi) oma töömälus kõige rohkem umbes tund aega. Seda ei salvestata, ei logita ega seota ühegi perega. Muul juhul ei saada äpp meile ise midagi.
 
 **Väljaspool Euroopat:** ka siis, kui elad väljaspool Euroopat, hoitakse ja edastatakse kõiki ilma-, hinna- ja võrgutasufaile ainult Bunny.neti serveritest ELis. Bunny.net (Sloveenia) tegutseb meie andmetöötluslepingu alusel.
 

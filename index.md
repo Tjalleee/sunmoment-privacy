@@ -27,6 +27,12 @@ If your language is not listed, the English version applies.
 - [العربية](ar.md)
 - [עברית](he.md)
 
+## Questions and help
+
+- [Questions and help (English)](questions.md)
+- [Vragen en hulp (Nederlands)](vragen.md)
+- [Fragen und Hilfe (Deutsch)](fragen.md)
+
 ## Terms of use
 
 - [Terms of use (English, binding)](terms.md)

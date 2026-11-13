@@ -2,7 +2,7 @@
 
 # SunMoment privatumo politika (lietuvių)
 
-*Paskutinį kartą atnaujinta: 2026 m. lapkričio 12 d.*
+*Paskutinį kartą atnaujinta: 2026 m. lapkričio 13 d.*
 
 SunMoment – tai programėlė namų ūkiams su saulės moduliais arba be jų. Ji jums praneša, kada geriausia įjungti prietaisus: naudojant savo saulės elektrą arba pigiomis jūsų sutarties valandomis. Trumpai: **programėlė beveik nenaudoja duomenų, ir mes negalime jų perskaityti, nebent patys juos mums atsiųstumėte.** Jei susiejate namiškius, nedidelis mūsų scenarijus saugo jūsų bendrą žurnalą, užšifruotą. Mes jo perskaityti negalime.
 
@@ -40,7 +40,7 @@ iPhone ar iPad įrenginyje programėlė orų prašo tik iš mūsų pačių orų 
 
 **„Šis sakinys neteisingas“** (siunčiant atsiliepimą): tada visada siunčiama ir jūsų kalba bei paskutinių atidarytų ekranų pavadinimai (pavyzdžiui, „SettingsScreen“), net jei techninė informacija išjungta. Juos matote prieš siųsdami.
 
-Techninė informacija įjungta pagal numatytuosius nustatymus. Prieš siųsdami ją matote visą ir galite ją išjungti arba ištrinti. **Nuosavo serverio neturime**, tik nedidelį sinchronizavimo scenarijų Bunny.net. Jis veikia tik tada, kai susiejate namiškius, ir saugo tik užšifruotus blokus, kurių negalime perskaityti. Be to, programėlė pati mums nieko nesiunčia.
+Techninė informacija įjungta pagal numatytuosius nustatymus. Prieš siųsdami ją matote visą ir galite ją išjungti arba ištrinti. **Nuosavo serverio neturime**, tik nedidelį sinchronizavimo scenarijų Bunny.net. Jis veikia tik tada, kai susiejate namiškius, ir saugo tik užšifruotus blokus, kurių negalime perskaityti. Jei savo telefonui suteikiate pavadinimą namiškiams (pavyzdžiui, „Ona“), šis pavadinimas keliauja tuose užšifruotuose blokuose; jį mato tik jūsų namiškiai. Kad apsisaugotų nuo piktnaudžiavimo, scenarijus skaičiuoja, kiek naujų susiejimų per valandą ateina iš vieno interneto adreso. Tam jis ne ilgiau kaip maždaug valandą laiko savo darbinėje atmintyje neatpažįstamą jūsų IP adreso formą (maišos reikšmę su atsitiktine reikšme). Ji neišsaugoma, neįrašoma į žurnalą ir nesiejama su jokiais namiškiais. Be to, programėlė pati mums nieko nesiunčia.
 
 **Už Europos ribų:** net jei gyvenate už Europos ribų, visi orų, kainų ir tinklo tarifų failai saugomi ir pristatomi tik iš Bunny.net serverių ES. Bunny.net (Slovėnija) veikia pagal mūsų duomenų tvarkymo sutartį.
 

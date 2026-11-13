@@ -2,7 +2,7 @@
 
 # Privacy Policy SunMoment (English)
 
-*Last updated: 12 November 2026*
+*Last updated: 13 November 2026*
 
 SunMoment is an app for households, with or without solar panels. It tells you when your appliances are best run: on your own solar power or in the cheap hours of your contract. Short answer: **the app uses almost no data, and we cannot read any of it unless you send it to us yourself.** If you link your household, a small script of ours keeps your shared log, encrypted. We cannot read it.
 
@@ -40,7 +40,7 @@ On an iPhone or iPad the app asks only our own weather files at Bunny.net, in ev
 
 **"This sentence is wrong"** (in feedback): your language and the names of the last screens you opened (for example "SettingsScreen") always go along, even with the technical info switched off. You see them before you send.
 
-The technical info is on by default. You see it in full before sending and can switch it off or delete it. We run **no server of our own**, only a small sync script at Bunny.net. It works only if you link your household, and it keeps only encrypted blocks that we cannot read. Apart from that, the app sends us nothing by itself.
+The technical info is on by default. You see it in full before sending and can switch it off or delete it. We run **no server of our own**, only a small sync script at Bunny.net. It works only if you link your household, and it keeps only encrypted blocks that we cannot read. If you give your phone a name for your household (for example "Anna"), that name travels inside those encrypted blocks; only your household sees it. As a brake on misuse, the script counts how many new links come from one internet address per hour. For that it keeps a scrambled form of your IP address (a salted hash) in its working memory for about an hour at most. It is not stored, not logged and not tied to a household. Apart from that, the app sends us nothing by itself.
 
 **Outside Europe:** even if you live outside Europe, all weather, price and grid-tariff files are stored and delivered only from Bunny.net servers in the EU. Bunny.net (Slovenia) works under our data processing agreement.
 

@@ -2,7 +2,7 @@
 
 # Datenschutzerklärung SunMoment (Deutsch)
 
-*Zuletzt aktualisiert: 12. November 2026*
+*Zuletzt aktualisiert: 13. November 2026*
 
 SunMoment ist eine App für Haushalte, mit oder ohne Solaranlage oder Balkonkraftwerk. Sie zeigt, wann deine Geräte am besten laufen: mit eigenem Solarstrom oder in den günstigen Stunden deines Tarifs. Kurz gesagt: **Die App nutzt fast keine Daten, und wir können keine davon lesen, außer du schickst sie uns selbst.** Verbindest du deinen Haushalt, speichert ein kleines Skript von uns euer gemeinsames Protokoll, verschlüsselt. Wir können es nicht lesen.
 
@@ -40,7 +40,7 @@ Auf einem iPhone oder iPad fragt die App das Wetter nur bei unseren eigenen Wett
 
 **„Dieser Satz stimmt nicht“** (beim Feedback): Dann gehen immer auch deine Sprache und die Namen der letzten Bildschirme mit, die du geöffnet hast (zum Beispiel „SettingsScreen“), auch wenn die technischen Infos aus sind. Du siehst sie vor dem Senden.
 
-Die technischen Infos sind standardmäßig an. Du siehst sie vor dem Senden vollständig und kannst sie ausschalten oder löschen. Wir betreiben **keinen eigenen Server**, nur ein kleines Synchronisations-Skript bei Bunny.net. Es arbeitet nur, wenn du deinen Haushalt verbindest, und speichert nur verschlüsselte Blöcke, die wir nicht lesen können. Sonst sendet uns die App von sich aus nichts.
+Die technischen Infos sind standardmäßig an. Du siehst sie vor dem Senden vollständig und kannst sie ausschalten oder löschen. Wir betreiben **keinen eigenen Server**, nur ein kleines Synchronisations-Skript bei Bunny.net. Es arbeitet nur, wenn du deinen Haushalt verbindest, und speichert nur verschlüsselte Blöcke, die wir nicht lesen können. Gibst du deinem Handy einen Namen für deinen Haushalt (zum Beispiel „Anna“), wird dieser Name in diesen verschlüsselten Blöcken mitgeschickt; nur dein Haushalt sieht ihn. Gegen Missbrauch zählt das Skript, wie viele neue Verbindungen pro Stunde von einer Internetadresse kommen. Dafür hält es eine unkenntlich gemachte Form deiner IP-Adresse (einen Hash mit Zufallswert) höchstens etwa eine Stunde in seinem Arbeitsspeicher. Sie wird nicht gespeichert, nicht protokolliert und keinem Haushalt zugeordnet. Sonst sendet uns die App von sich aus nichts.
 
 **Außerhalb Europas:** Auch wenn du außerhalb Europas wohnst, werden alle Wetter-, Preis- und Netzentgeltdateien nur auf Servern von Bunny.net in der EU gespeichert und nur von dort ausgeliefert. Bunny.net (Slowenien) arbeitet nach unserem Auftragsverarbeitungsvertrag.
 

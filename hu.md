@@ -2,7 +2,7 @@
 
 # SunMoment adatvédelmi tájékoztató (magyar)
 
-*Utolsó frissítés: 2026. november 12.*
+*Utolsó frissítés: 2026. november 13.*
 
 A SunMoment háztartásoknak szóló app, napelemmel vagy anélkül. Megmondja, mikor érdemes a gépeidet járatni: a saját napelemes áramodon vagy a szerződésed olcsó óráiban. Röviden: **az app szinte semmilyen adatot nem használ, és semmit sem tudunk elolvasni belőle, hacsak te magad el nem küldöd nekünk.** Ha összekapcsolod a háztartásodat, egy kis szkriptünk titkosítva tárolja a közös naplótokat. Mi nem tudjuk elolvasni.
 
@@ -40,7 +40,7 @@ iPhone-on vagy iPaden az app csak a saját időjárási fájljainkból kéri le 
 
 **„Ez a mondat hibás”** (visszajelzésnél): ilyenkor mindig elmegy a nyelved és a legutóbb megnyitott képernyők neve is (például „SettingsScreen”), akkor is, ha a technikai adatok ki vannak kapcsolva. Küldés előtt látod őket.
 
-A technikai adatok alapértelmezés szerint be vannak kapcsolva. Küldés előtt teljes egészében látod őket, és kikapcsolhatod vagy törölheted őket. **Nincs saját szerverünk**, csak egy kis szinkronizáló szkript a Bunny.net-nél. Csak akkor működik, ha összekapcsolod a háztartásodat, és csak titkosított blokkokat őriz, amelyeket nem tudunk elolvasni. Ezen kívül az app magától semmit sem küld nekünk.
+A technikai adatok alapértelmezés szerint be vannak kapcsolva. Küldés előtt teljes egészében látod őket, és kikapcsolhatod vagy törölheted őket. **Nincs saját szerverünk**, csak egy kis szinkronizáló szkript a Bunny.net-nél. Csak akkor működik, ha összekapcsolod a háztartásodat, és csak titkosított blokkokat őriz, amelyeket nem tudunk elolvasni. Ha nevet adsz a telefonodnak a háztartásod számára (például „Anna”), ez a név ezekben a titkosított blokkokban utazik; csak a háztartásod látja. A visszaélések ellen a szkript megszámolja, hány új összekapcsolás érkezik óránként egy internetcímről. Ehhez az IP-címed felismerhetetlenné tett formáját (egy véletlen értékkel képzett hash-t) legfeljebb körülbelül egy óráig tartja a munkamemóriájában. Ezt nem tárolja, nem naplózza, és nem köti egyetlen háztartáshoz sem. Ezen kívül az app magától semmit sem küld nekünk.
 
 **Európán kívül:** akkor is, ha Európán kívül élsz, minden időjárás-, ár- és hálózatidíj-fájlt kizárólag a Bunny.net EU-beli szerverei tárolnak és kézbesítenek. A Bunny.net (Szlovénia) az adatfeldolgozási szerződésünk szerint jár el.
 

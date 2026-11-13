@@ -2,7 +2,7 @@
 
 # SunMoment Gizlilik Politikası (Türkçe)
 
-*Son güncelleme: 12 Kasım 2026*
+*Son güncelleme: 13 Kasım 2026*
 
 SunMoment, güneş paneli olan ya da olmayan haneler için bir uygulamadır. Cihazlarınızı ne zaman çalıştırmanın en iyisi olduğunu söyler: kendi güneş elektriğinizle ya da sözleşmenizin ucuz saatlerinde. Kısaca: **uygulama neredeyse hiç veri kullanmaz ve siz kendiniz göndermedikçe hiçbirini okuyamayız.** Ev halkınızı bağlarsanız, küçük bir betiğimiz ortak kaydınızı şifrelenmiş olarak saklar. Biz onu okuyamayız.
 
@@ -40,7 +40,7 @@ iPhone veya iPad'de uygulama, her ülkede hava durumunu yalnızca Bunny.net'teki
 
 **"Bu cümle yanlış"** (geri bildirimde): o zaman diliniz ve en son açtığınız ekranların adları (örneğin "SettingsScreen") her zaman gider, teknik bilgi kapalı olsa bile. Göndermeden önce bunları görürsünüz.
 
-Teknik bilgi varsayılan olarak açıktır. Göndermeden önce tamamını görürsünüz ve kapatabilir veya silebilirsiniz. **Kendi sunucumuz yoktur**, yalnızca Bunny.net'te küçük bir eşitleme betiği vardır. Bu yalnızca ev halkınızı bağlarsanız çalışır ve yalnızca okuyamadığımız şifreli blokları saklar. Bunun dışında uygulama bize kendiliğinden hiçbir şey göndermez.
+Teknik bilgi varsayılan olarak açıktır. Göndermeden önce tamamını görürsünüz ve kapatabilir veya silebilirsiniz. **Kendi sunucumuz yoktur**, yalnızca Bunny.net'te küçük bir eşitleme betiği vardır. Bu yalnızca ev halkınızı bağlarsanız çalışır ve yalnızca okuyamadığımız şifreli blokları saklar. Telefonunuza ev halkınız için bir ad verirseniz (örneğin "Ayşe"), bu ad o şifreli blokların içinde gider; yalnızca ev halkınız görür. Kötüye kullanıma karşı betik, bir internet adresinden saatte kaç yeni bağlantı geldiğini sayar. Bunun için IP adresinizin tanınmaz hâle getirilmiş bir biçimini (rastgele değer eklenmiş bir özet) çalışma belleğinde en fazla yaklaşık bir saat tutar. Bu biçim saklanmaz, günlüğe yazılmaz ve hiçbir ev halkıyla ilişkilendirilmez. Bunun dışında uygulama bize kendiliğinden hiçbir şey göndermez.
 
 **Avrupa dışında:** Avrupa dışında yaşasanız bile tüm hava durumu, fiyat ve şebeke tarifesi dosyaları yalnızca Bunny.net'in AB'deki sunucularında saklanır ve yalnızca oradan iletilir. Bunny.net (Slovenya) veri işleme sözleşmemiz kapsamında çalışır.
 

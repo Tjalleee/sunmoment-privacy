@@ -2,7 +2,7 @@
 
 # Zásady ochrany osobních údajů SunMoment (čeština)
 
-*Naposledy aktualizováno: 12. listopadu 2026*
+*Naposledy aktualizováno: 13. listopadu 2026*
 
 SunMoment je aplikace pro domácnosti, se solárními panely i bez nich. Řekne vám, kdy je nejlepší pustit spotřebiče: na vlastní solární elektřinu, nebo v levných hodinách vaší smlouvy. Stručně: **aplikace používá téměř žádná data a nic z nich nemůžeme číst, pokud nám je sami nepošlete.** Když propojíte domácnost, náš malý skript uchovává váš sdílený záznam, šifrovaně. Nemůžeme ho číst.
 
@@ -40,7 +40,7 @@ Na iPhonu nebo iPadu si aplikace bere počasí jen z našich vlastních souborů
 
 **„Tato věta je špatně“** (u zpětné vazby): pak se vždy odešle i váš jazyk a názvy naposledy otevřených obrazovek (například „SettingsScreen“), i když jsou technické údaje vypnuté. Uvidíte je před odesláním.
 
-Technické údaje jsou ve výchozím stavu zapnuté. Před odesláním je vidíte celé a můžete je vypnout nebo smazat. **Nemáme vlastní server**, jen malý synchronizační skript u Bunny.net. Funguje, jen když propojíte domácnost, a uchovává jen šifrované bloky, které nemůžeme číst. Kromě toho nám aplikace sama nic neposílá.
+Technické údaje jsou ve výchozím stavu zapnuté. Před odesláním je vidíte celé a můžete je vypnout nebo smazat. **Nemáme vlastní server**, jen malý synchronizační skript u Bunny.net. Funguje, jen když propojíte domácnost, a uchovává jen šifrované bloky, které nemůžeme číst. Pokud dáte telefonu název pro svou domácnost (například „Anna“), putuje tento název uvnitř těchto šifrovaných bloků; vidí ho jen vaše domácnost. Proti zneužití skript počítá, kolik nových propojení přijde za hodinu z jedné internetové adresy. K tomu drží nečitelnou podobu vaší IP adresy (hash s náhodnou hodnotou) nejvýše asi hodinu ve své pracovní paměti. Neukládá se, nezapisuje se do protokolu a není spojena s žádnou domácností. Kromě toho nám aplikace sama nic neposílá.
 
 **Mimo Evropu:** i když žijete mimo Evropu, jsou všechny soubory s počasím, cenami a síťovými tarify uloženy a doručovány pouze ze serverů Bunny.net v EU. Bunny.net (Slovinsko) postupuje podle naší smlouvy o zpracování osobních údajů.
 

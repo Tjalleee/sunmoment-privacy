@@ -2,7 +2,7 @@
 
 # Politica de confidențialitate SunMoment (română)
 
-*Ultima actualizare: 12 noiembrie 2026*
+*Ultima actualizare: 13 noiembrie 2026*
 
 SunMoment este o aplicație pentru gospodării, cu sau fără panouri solare. Îți spune când e cel mai bine să pornești aparatele: pe curentul tău solar sau în orele ieftine din contractul tău. Pe scurt: **aplicația folosește aproape deloc date, iar noi nu putem citi nimic din ele, decât dacă ni le trimiți chiar tu.** Dacă îți conectezi familia, un mic script al nostru păstrează jurnalul vostru comun, criptat. Noi nu îl putem citi.
 
@@ -40,7 +40,7 @@ Pe un iPhone sau iPad, aplicația ia vremea doar din propriile noastre fișiere 
 
 **„Fraza aceasta e greșită”** (la feedback): atunci pleacă mereu și limba ta și numele ultimelor ecrane deschise (de exemplu „SettingsScreen”), chiar dacă informațiile tehnice sunt oprite. Le vezi înainte de trimitere.
 
-Informațiile tehnice sunt pornite implicit. Le vezi complet înainte de trimitere și le poți dezactiva sau șterge. **Nu avem niciun server propriu**, doar un mic script de sincronizare la Bunny.net. Funcționează doar dacă îți conectezi familia și păstrează doar blocuri criptate pe care noi nu le putem citi. În rest, aplicația nu ne trimite nimic singură.
+Informațiile tehnice sunt pornite implicit. Le vezi complet înainte de trimitere și le poți dezactiva sau șterge. **Nu avem niciun server propriu**, doar un mic script de sincronizare la Bunny.net. Funcționează doar dacă îți conectezi familia și păstrează doar blocuri criptate pe care noi nu le putem citi. Dacă dai telefonului tău un nume pentru familie (de exemplu „Ana”), acel nume călătorește în aceste blocuri criptate; îl vede doar familia ta. Împotriva abuzurilor, scriptul numără câte conectări noi vin pe oră de la aceeași adresă de internet. Pentru asta păstrează o formă de nerecunoscut a adresei tale IP (un hash cu o valoare aleatorie) în memoria de lucru cel mult aproximativ o oră. Nu este stocată, nu este trecută în jurnale și nu este legată de nicio familie. În rest, aplicația nu ne trimite nimic singură.
 
 **În afara Europei:** chiar dacă locuiești în afara Europei, toate fișierele meteo, de prețuri și de tarife de rețea sunt stocate și livrate doar de pe servere Bunny.net din UE. Bunny.net (Slovenia) lucrează conform acordului nostru de prelucrare a datelor.
 

@@ -2,7 +2,7 @@
 
 # Privatlivspolitik for SunMoment (dansk)
 
-*Senest opdateret: 12. november 2026*
+*Senest opdateret: 13. november 2026*
 
 SunMoment er en app til husstande, med eller uden solceller. Den fortæller dig, hvornår dine apparater bedst kan køre: på din egen solstrøm eller i de billige timer i din elaftale. Det korte svar: **appen bruger næsten ingen data, og vi kan ikke læse noget af det, medmindre du selv sender det til os.** Forbinder du din husstand, gemmer et lille script fra os jeres fælles logbog, krypteret. Vi kan ikke læse den.
 
@@ -40,7 +40,7 @@ På en iPhone eller iPad spørger appen kun vores egne vejrfiler hos Bunny.net o
 
 **»Denne sætning er forkert«** (ved feedback): så kommer dit sprog og navnene på de seneste skærme, du åbnede (for eksempel »SettingsScreen«), altid med, også når den tekniske info er slået fra. Du ser dem, før du sender.
 
-Den tekniske info er slået til som standard. Du ser den i sin helhed, før du sender, og du kan slå den fra eller slette den. Vi har **ingen egen server**, kun et lille synkroniseringsscript hos Bunny.net. Det virker kun, hvis du forbinder din husstand, og det gemmer kun krypterede blokke, som vi ikke kan læse. Ellers sender appen ikke os noget af sig selv.
+Den tekniske info er slået til som standard. Du ser den i sin helhed, før du sender, og du kan slå den fra eller slette den. Vi har **ingen egen server**, kun et lille synkroniseringsscript hos Bunny.net. Det virker kun, hvis du forbinder din husstand, og det gemmer kun krypterede blokke, som vi ikke kan læse. Giver du din telefon et navn til din husstand (for eksempel »Anna«), følger det navn med i de krypterede blokke; kun din husstand ser det. Mod misbrug tæller scriptet, hvor mange nye forbindelser der kommer fra én internetadresse pr. time. Til det holder det en uigenkendelig form af din IP-adresse (en hash med et tilfældigt tal) i sin arbejdshukommelse i højst cirka en time. Den bliver ikke gemt, ikke logget og ikke knyttet til en husstand. Ellers sender appen ikke os noget af sig selv.
 
 **Uden for Europa:** også hvis du bor uden for Europa, bliver alle vejr-, pris- og nettarif-filer kun gemt på og leveret fra Bunny.net-servere i EU. Bunny.net (Slovenien) arbejder efter vores databehandleraftale.
 

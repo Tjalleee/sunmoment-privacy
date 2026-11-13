@@ -2,7 +2,7 @@
 
 # Politique de confidentialité SunMoment (français)
 
-*Dernière mise à jour : 12 novembre 2026*
+*Dernière mise à jour : 13 novembre 2026*
 
 SunMoment est une appli pour les foyers, avec ou sans panneaux solaires. Elle vous indique quand faire tourner vos appareils : sur votre propre électricité solaire ou pendant les heures creuses de votre contrat. En bref : **l’appli n’utilise presque aucune donnée, et nous ne pouvons rien en lire, sauf ce que vous nous envoyez vous-même.** Si vous reliez votre foyer, un petit script à nous garde votre journal commun, chiffré. Nous ne pouvons pas le lire.
 
@@ -40,7 +40,7 @@ Sur un iPhone ou un iPad, l’appli demande la météo uniquement à nos propres
 
 **« Cette phrase est fausse »** (dans le feedback) : votre langue et le nom des derniers écrans ouverts (par exemple « SettingsScreen ») partent toujours avec le message, même si les infos techniques sont désactivées. Vous les voyez avant l’envoi.
 
-Les infos techniques sont activées par défaut. Vous les voyez en entier avant l’envoi et pouvez les désactiver ou les supprimer. Nous n’avons **pas de serveur à nous**, seulement un petit script de synchronisation chez Bunny.net. Il ne fonctionne que si vous reliez votre foyer, et ne garde que des blocs chiffrés que nous ne pouvons pas lire. Sinon, l’appli ne nous envoie rien d’elle-même.
+Les infos techniques sont activées par défaut. Vous les voyez en entier avant l’envoi et pouvez les désactiver ou les supprimer. Nous n’avons **pas de serveur à nous**, seulement un petit script de synchronisation chez Bunny.net. Il ne fonctionne que si vous reliez votre foyer, et ne garde que des blocs chiffrés que nous ne pouvons pas lire. Si vous donnez un nom à votre téléphone pour votre foyer (par exemple « Anna »), ce nom voyage dans ces blocs chiffrés ; seul votre foyer le voit. Contre les abus, le script compte combien de nouvelles liaisons viennent d’une même adresse internet par heure. Pour cela, il garde une forme rendue méconnaissable de votre adresse IP (un hachage avec une valeur aléatoire) dans sa mémoire de travail pendant environ une heure au plus. Elle n’est ni enregistrée, ni journalisée, ni rattachée à un foyer. Sinon, l’appli ne nous envoie rien d’elle-même.
 
 **Hors d’Europe :** même si vous vivez hors d’Europe, tous les fichiers météo, de prix et de tarifs de réseau sont stockés et fournis uniquement depuis des serveurs de Bunny.net situés dans l’UE. Bunny.net (Slovénie) agit selon notre accord de traitement des données.
 

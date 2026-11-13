@@ -2,7 +2,7 @@
 
 # Política de privacidad de SunMoment (español)
 
-*Última actualización: 12 de noviembre de 2026*
+*Última actualización: 13 de noviembre de 2026*
 
 SunMoment es una app para hogares, con o sin placas solares. Te dice cuándo conviene poner tus electrodomésticos: con tu propia electricidad solar o en las horas baratas de tu contrato. En resumen: **la app usa casi ningún dato, y no podemos leer ninguno, salvo lo que tú mismo nos envíes.** Si conectas tu hogar, un pequeño script nuestro guarda vuestro registro común, cifrado. No podemos leerlo.
 
@@ -40,7 +40,7 @@ En un iPhone o iPad, la app pide el tiempo solo a nuestros propios archivos mete
 
 **«Esta frase está mal»** (en las opiniones): entonces siempre se envían también tu idioma y los nombres de las últimas pantallas que abriste (por ejemplo, «SettingsScreen»), aunque la información técnica esté desactivada. Los ves antes de enviar.
 
-La información técnica está activada por defecto. La ves completa antes de enviarla y puedes desactivarla o borrarla. **No tenemos servidor propio**, solo un pequeño script de sincronización en Bunny.net. Solo funciona si conectas tu hogar, y solo guarda bloques cifrados que no podemos leer. Aparte de eso, la app no nos envía nada por sí misma.
+La información técnica está activada por defecto. La ves completa antes de enviarla y puedes desactivarla o borrarla. **No tenemos servidor propio**, solo un pequeño script de sincronización en Bunny.net. Solo funciona si conectas tu hogar, y solo guarda bloques cifrados que no podemos leer. Si le pones un nombre a tu teléfono para tu hogar (por ejemplo «Ana»), ese nombre viaja dentro de esos bloques cifrados; solo lo ve tu hogar. Para frenar abusos, el script cuenta cuántas conexiones nuevas llegan por hora desde una misma dirección de internet. Para ello mantiene una forma irreconocible de tu dirección IP (un hash con un valor aleatorio) en su memoria de trabajo durante una hora aproximadamente como máximo. No se guarda, no se registra y no se asocia a ningún hogar. Aparte de eso, la app no nos envía nada por sí misma.
 
 **Fuera de Europa:** aunque vivas fuera de Europa, todos los archivos meteorológicos, de precios y de peajes de red se guardan y se entregan solo desde servidores de Bunny.net en la UE. Bunny.net (Eslovenia) actúa conforme a nuestro acuerdo de tratamiento de datos.
 
