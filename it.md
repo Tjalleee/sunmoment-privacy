@@ -22,6 +22,8 @@ Anche solo sul tuo telefono, pure se colleghi la tua famiglia: il tuo programma 
 
 **Fotocamera** (solo con «Scansiona il codice»): l’app usa la fotocamera per leggere il codice di collegamento di un membro della tua famiglia. Questo avviene sul tuo telefono; nessuna foto viene salvata o inviata.
 
+**Collegare il contatore o l’inverter** (solo se lo fai tu, in Impostazioni → Collega il contatore o l’inverter): l’app cerca nel tuo wifi un contatore HomeWizard P1 e poi legge direttamente l’apparecchio che colleghi (un contatore HomeWizard P1, un inverter Fronius, KOSTAL, SMA, SolarEdge o di un’altra marca con SunSpec, oppure una batteria domestica Victron o Zendure), solo finché l’app è aperta. Quel traffico resta nella tua rete di casa: l’app invia richieste solo a indirizzi della tua rete e rifiuta gli altri. Niente arriva a noi o al produttore. L’indirizzo dell’apparecchio è nelle tue impostazioni sul telefono (anche nel file per un nuovo telefono), ma non va alla tua famiglia. L’app non conserva ciò che l’apparecchio misura. Su iPhone e iPad, iOS chiede prima se l’app può usare la tua rete locale. Un contatore HomeWizard con la nuova API (v2) dà all’app una chiave dopo che premi il pulsante del contatore. La chiave resta solo nella memoria protetta del telefono (non nel file per un nuovo telefono); l’app controlla prima il certificato del contatore e scollegarlo cancella la chiave. Alcuni apparecchi parlano solo http semplice, senza cifratura. Android non può consentirlo indirizzo per indirizzo, quindi è consentito per tutta l’app; l’app stessa invia queste richieste solo a indirizzi della tua rete.
+
 ## Cosa esce dal tuo telefono, e perché
 
 | Cosa | Perché | A chi | Base giuridica (GDPR) | Per quanto tempo |

@@ -22,6 +22,8 @@ Myös vain puhelimessasi, vaikka yhdistäisit kotiväkesi: viikko-ohjelmasi, poi
 
 **Kamera** (vain kohdassa ”Skannaa koodi”): sovellus käyttää kameraa lukeakseen kotiväkeesi kuuluvan henkilön yhdistämiskoodin. Tämä tapahtuu puhelimessasi; valokuvaa ei tallenneta eikä lähetetä.
 
+**Mittarin tai invertterin yhdistäminen** (vain jos teet sen itse, kohdassa Asetukset → Yhdistä mittari tai invertteri): sovellus etsii omasta wifistäsi HomeWizard P1 -mittaria ja lukee sitten suoraan laitetta, jonka yhdistät (HomeWizard P1 -mittari, Fronius-, KOSTAL-, SMA-, SolarEdge- tai muu SunSpec-invertteri tai Victron- tai Zendure-kotiakku), vain kun sovellus on auki. Tämä liikenne pysyy kotiverkossasi: sovellus lähettää pyyntöjä vain oman verkkosi osoitteisiin ja hylkää muut osoitteet. Mitään ei mene meille eikä valmistajalle. Laitteen osoite on asetuksissasi puhelimessa (myös uuden puhelimen tiedostossa), mutta sitä ei lähetetä kotiväellesi. Sovellus ei tallenna sitä, mitä laite mittaa. iPhonessa ja iPadissa iOS kysyy ensin, saako sovellus käyttää paikallisverkkoasi. Uudella API:lla (v2) toimiva HomeWizard-mittari antaa sovellukselle avaimen, kun olet painanut mittarin painiketta. Avain on vain puhelimen suojatussa tallennustilassa (ei uuden puhelimen tiedostossa); sovellus tarkistaa ensin mittarin varmenteen, ja yhteyden poistaminen poistaa avaimen. Jotkin laitteet puhuvat vain tavallista http:tä ilman salausta. Android ei voi sallia sitä osoitekohtaisesti, joten se on sallittu koko sovellukselle; sovellus itse lähettää tällaisia pyyntöjä vain oman verkkosi osoitteisiin.
+
 ## Mitä lähtee puhelimestasi, ja miksi
 
 | Mitä | Miksi | Kenelle | Oikeusperuste (GDPR) | Kuinka kauan |

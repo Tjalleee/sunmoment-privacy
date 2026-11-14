@@ -22,6 +22,8 @@ Szintén csak a telefonodon, akkor is, ha összekapcsolod a háztartásodat: a h
 
 **Kamera** (csak a „Kód beolvasása” gombnál): az app a kamerával olvassa be egy háztartásodbeli személy párosító kódját. Ez a telefonodon történik; az app nem ment és nem küld el fényképet.
 
+**Mérő vagy inverter csatlakoztatása** (csak ha te magad teszed, a Beállítások → Mérő vagy inverter csatlakoztatása alatt): az app a saját wifideden HomeWizard P1 mérőt keres, majd közvetlenül kiolvassa a csatlakoztatott készüléket (HomeWizard P1 mérőt, Fronius, KOSTAL, SMA, SolarEdge vagy más SunSpec-képes invertert, illetve Victron vagy Zendure otthoni akkumulátort), csak amíg az app nyitva van. Ez a forgalom az otthoni hálózatodban marad: az app csak a saját hálózatod címeire küld kérést, más címeket elutasít. Semmi sem jut el hozzánk vagy a gyártóhoz. A készülék címe a beállításaidban van a telefonodon (az új telefonnak szóló fájlban is), de nem kerül a háztartásodhoz. Amit a készülék mér, azt az app nem tárolja. iPhone-on és iPaden az iOS előbb megkérdezi, használhatja-e az app a helyi hálózatodat. Az új API-val (v2) működő HomeWizard-mérő kulcsot ad az appnak, miután megnyomtad a mérő gombját. A kulcs csak a telefonod védett tárhelyén van (az új telefonnak szóló fájlban nem); az app előbb ellenőrzi a mérő tanúsítványát, és a leválasztás törli a kulcsot. Egyes eszközök csak sima, titkosítás nélküli http-t beszélnek. Az Android ezt nem tudja címenként engedélyezni, ezért az egész appra engedélyezett; maga az app ilyen kéréseket csak a saját hálózatod címeire küld.
+
 ## Mi hagyja el a telefonodat, és miért
 
 | Mi | Miért | Kinek | Jogalap (GDPR) | Meddig |

@@ -22,6 +22,8 @@ Também só no seu telemóvel, mesmo que ligue a sua família: o seu horário se
 
 **Câmara** (só em "Ler o código"): a app usa a câmara para ler o código de ligação de alguém da sua família. Isso acontece no seu telemóvel; nenhuma fotografia é guardada nem enviada.
 
+**Ligar o contador ou o inversor** (só se o fizer, em Definições → Ligar o contador ou o inversor): a app procura no seu wifi um contador HomeWizard P1 e depois lê diretamente o aparelho que ligar (um contador HomeWizard P1, um inversor Fronius, KOSTAL, SMA, SolarEdge ou de outra marca com SunSpec, ou uma bateria doméstica Victron ou Zendure), só enquanto a app está aberta. Esse tráfego fica na sua rede de casa: a app só envia pedidos para endereços da sua rede e recusa outros endereços. Nada vai para nós nem para o fabricante. O endereço do aparelho fica nas suas definições no telemóvel (também no ficheiro para um telemóvel novo), mas não vai para a sua família. A app não guarda o que o aparelho mede. No iPhone e no iPad, o iOS pergunta primeiro se a app pode usar a sua rede local. Um contador HomeWizard com a nova API (v2) dá uma chave à app depois de carregar no botão do contador. Essa chave fica só no armazenamento seguro do telemóvel (não no ficheiro para um telemóvel novo); a app verifica primeiro o certificado do contador, e desligar apaga a chave. Alguns aparelhos só falam http simples, sem encriptação. O Android não consegue permitir isso por endereço, por isso está permitido para toda a app; a própria app só envia esses pedidos para endereços da sua própria rede.
+
 ## O que sai do seu telemóvel, e porquê
 
 | O quê | Porquê | Para quem | Fundamento jurídico (RGPD) | Durante quanto tempo |

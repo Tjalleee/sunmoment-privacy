@@ -22,6 +22,8 @@ También solo en tu teléfono, aunque conectes tu hogar: tu horario semanal, un 
 
 **Cámara** (solo con «Escanear el código»): la app usa la cámara para leer el código para conectar de alguien de tu hogar. Eso ocurre en tu teléfono; no se guarda ni se envía ninguna foto.
 
+**Conectar tu contador o inversor** (solo si lo haces tú, en Ajustes → Conecta tu contador o inversor): la app busca en tu propio wifi un contador HomeWizard P1 y luego lee directamente el aparato que conectas (un contador HomeWizard P1, un inversor Fronius, KOSTAL, SMA, SolarEdge u otra marca con SunSpec, o una batería doméstica Victron o Zendure), solo mientras la app está abierta. Ese tráfico se queda en la red de tu casa: la app solo envía peticiones a direcciones de tu propia red y rechaza las demás. No nos llega nada ni a nosotros ni al fabricante. La dirección del aparato está en tus ajustes en el teléfono (también en el archivo para un teléfono nuevo), pero no se envía a tu hogar. La app no guarda lo que mide el aparato. En iPhone y iPad, iOS pregunta primero si la app puede usar tu red local. Un contador HomeWizard con la nueva API (v2) da una clave a la app después de que pulses el botón del contador. Esa clave solo se guarda en el almacenamiento seguro del teléfono (no en el archivo para un teléfono nuevo); la app comprueba primero el certificado del contador, y al desconectarlo se borra la clave. Algunos aparatos solo hablan http simple, sin cifrado. Android no puede permitirlo por dirección, así que está permitido para toda la app; la propia app solo envía esas peticiones a direcciones de tu propia red.
+
 ## Lo que sale de tu teléfono, y por qué
 
 | Qué | Por qué | A quién | Base jurídica (RGPD) | Durante cuánto tiempo |

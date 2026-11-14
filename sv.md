@@ -22,6 +22,8 @@ Också bara på din telefon, även om du kopplar ihop ditt hushåll: ditt veckos
 
 **Kamera** (bara vid ”Skanna koden”): appen använder kameran för att läsa kopplingskoden från någon i ditt hushåll. Det sker på din telefon; inget foto sparas eller skickas.
 
+**Koppla mätare eller växelriktare** (bara om du gör det själv, under Inställningar → Koppla din mätare eller växelriktare): appen söker i ditt eget wifi efter en HomeWizard P1-mätare och läser sedan direkt av enheten du kopplar (en HomeWizard P1-mätare, en växelriktare från Fronius, KOSTAL, SMA, SolarEdge eller ett annat märke med SunSpec, eller ett hembatteri från Victron eller Zendure), bara medan appen är öppen. Den trafiken stannar i ditt hemnätverk: appen skickar bara förfrågningar till adresser i ditt eget nätverk och nekar andra adresser. Inget går till oss eller till tillverkaren. Enhetens adress finns i dina inställningar i telefonen (också i filen för en ny telefon), men skickas inte till ditt hushåll. Appen sparar inte det enheten mäter. På iPhone och iPad frågar iOS först om appen får använda ditt lokala nätverk. En HomeWizard-mätare med det nya API:et (v2) ger appen en nyckel när du har tryckt på mätarens knapp. Nyckeln finns bara i telefonens säkra lagring (inte i filen för en ny telefon); appen kontrollerar först mätarens certifikat, och när du kopplar bort den raderas nyckeln. Vissa enheter talar bara vanlig http utan kryptering. Android kan inte tillåta det per adress, så det är tillåtet för hela appen; appen själv skickar sådana förfrågningar bara till adresser i ditt eget nätverk.
+
 ## Vad lämnar din telefon, och varför
 
 | Vad | Varför | Till vem | Rättslig grund (GDPR) | Hur länge |

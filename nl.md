@@ -28,6 +28,8 @@ Ook alleen op je telefoon, ook als je huisgenoten koppelt: je weekrooster, een p
 
 **Camera** (alleen bij "Scan de code"): de app gebruikt de camera om de koppelcode van een huisgenoot te lezen. Dat gebeurt op je telefoon; er wordt geen foto bewaard of verstuurd.
 
+**Meter of omvormer koppelen** (alleen als je dat zelf doet, onder Instellingen → Koppel je meter of omvormer): de app zoekt in je eigen wifi naar een HomeWizard P1-meter en leest daarna het apparaat dat je koppelt (een HomeWizard P1-meter, een omvormer van Fronius, KOSTAL, SMA, SolarEdge of een ander merk met SunSpec, of een thuisbatterij van Victron of Zendure) rechtstreeks uit, alleen zolang de app open is. Dat verkeer blijft in je thuisnetwerk: de app stuurt alleen verzoeken naar adressen in je eigen netwerk en weigert andere adressen. Er gaat niets naar ons of naar de fabrikant. Het adres van het apparaat staat in je instellingen op je telefoon (ook in het bestand voor een nieuwe telefoon), maar gaat niet mee naar je huisgenoten. Wat het apparaat meet, bewaart de app niet. Op iPhone en iPad vraagt iOS eerst of de app je lokale netwerk mag gebruiken. Een HomeWizard-meter met de nieuwe API (v2) geeft de app een sleutel nadat je op de knop van de meter drukt. Die sleutel staat alleen in de beveiligde opslag van je telefoon (niet in het bestand voor een nieuwe telefoon); de app controleert eerst het certificaat van de meter en ontkoppelen wist de sleutel. Sommige apparaten spreken alleen gewone http, zonder versleuteling. Android kan dat niet per adres toestaan, dus het staat voor de hele app aan; de app zelf stuurt zulke verzoeken alleen naar adressen in je eigen netwerk.
+
 ## Wat gaat er naar buiten, en waarom?
 
 | Wat | Waarom | Naar wie | Grondslag (AVG) | Hoe lang |

@@ -22,6 +22,8 @@ Também só no seu celular, mesmo que você conecte a sua família: sua agenda s
 
 **Câmera** (só em "Ler o código"): o app usa a câmera para ler o código de conexão de alguém da sua família. Isso acontece no seu celular; nenhuma foto é guardada nem enviada.
 
+**Conectar o medidor ou o inversor** (só se você mesmo fizer, em Ajustes → Conectar o medidor ou o inversor): o app procura no seu wi-fi um medidor HomeWizard P1 e depois lê diretamente o aparelho que você conectar (um medidor HomeWizard P1, um inversor Fronius, KOSTAL, SMA, SolarEdge ou de outra marca com SunSpec, ou uma bateria residencial Victron ou Zendure), só enquanto o app está aberto. Esse tráfego fica na sua rede de casa: o app só envia pedidos para endereços da sua rede e recusa outros endereços. Nada vai para nós nem para o fabricante. O endereço do aparelho fica nos seus ajustes no celular (também no arquivo para um celular novo), mas não vai para a sua família. O app não guarda o que o aparelho mede. No iPhone e no iPad, o iOS pergunta primeiro se o app pode usar sua rede local. Um medidor HomeWizard com a nova API (v2) dá uma chave ao app depois que você aperta o botão do medidor. Essa chave fica só no armazenamento seguro do celular (não no arquivo para um celular novo); o app verifica primeiro o certificado do medidor, e desconectar apaga a chave. Alguns aparelhos só falam http simples, sem criptografia. O Android não consegue permitir isso por endereço, então está permitido para o app inteiro; o próprio app só envia esses pedidos para endereços da sua própria rede.
+
 ## O que sai do seu celular, e por quê
 
 | O quê | Por quê | Para quem | Base legal (RGPD/GDPR) | Por quanto tempo |

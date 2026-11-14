@@ -22,6 +22,8 @@ Også bare på telefonen din, selv om du kobler sammen husstanden din: ukeplanen
 
 **Kamera** (bare ved «Skann koden»): appen bruker kameraet til å lese tilkoblingskoden fra noen i husstanden din. Det skjer på telefonen din; ingen bilder blir lagret eller sendt.
 
+**Koble til måler eller vekselretter** (bare hvis du gjør det selv, under Innstillinger → Koble til måleren eller vekselretteren): appen søker på ditt eget wifi etter en HomeWizard P1-måler og leser deretter enheten du kobler til (en HomeWizard P1-måler, en vekselretter fra Fronius, KOSTAL, SMA, SolarEdge eller et annet merke med SunSpec, eller et hjemmebatteri fra Victron eller Zendure) direkte, bare mens appen er åpen. Den trafikken blir i hjemmenettet ditt: appen sender bare forespørsler til adresser i ditt eget nett og avviser andre adresser. Ingenting går til oss eller til produsenten. Adressen til enheten ligger i innstillingene på telefonen din (også i filen for en ny telefon), men sendes ikke til husstanden din. Appen lagrer ikke det enheten måler. På iPhone og iPad spør iOS først om appen får bruke det lokale nettverket ditt. En HomeWizard-måler med det nye API-et (v2) gir appen en nøkkel etter at du har trykket på knappen på måleren. Nøkkelen ligger bare i telefonens sikre lagring (ikke i filen for en ny telefon); appen sjekker først målerens sertifikat, og frakobling sletter nøkkelen. Noen enheter snakker bare vanlig http uten kryptering. Android kan ikke tillate det per adresse, så det er tillatt for hele appen; appen selv sender slike forespørsler bare til adresser i ditt eget nettverk.
+
 ## Hva som forlater telefonen din, og hvorfor
 
 | Hva | Hvorfor | Til hvem | Rettslig grunnlag (GDPR) | Hvor lenge |

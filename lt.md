@@ -22,6 +22,8 @@ Taip pat tik jūsų telefone, net jei susiejate namiškius: jūsų savaitės gra
 
 **Kamera** (tik paspaudus „Nuskaityti kodą“): programėlė naudoja kamerą, kad nuskaitytų namiškio susiejimo kodą. Tai vyksta jūsų telefone; jokia nuotrauka neišsaugoma ir nesiunčiama.
 
+**Skaitiklio ar keitiklio prijungimas** (tik jei tai darote patys, Nustatymai → Prijunkite skaitiklį ar keitiklį): programėlė jūsų wifi tinkle ieško HomeWizard P1 skaitiklio, o paskui tiesiogiai nuskaito prijungtą įrenginį (HomeWizard P1 skaitiklį, Fronius, KOSTAL, SMA, SolarEdge ar kitos SunSpec palaikančios markės keitiklį arba Victron ar Zendure namų bateriją), tik kol programėlė atidaryta. Šis srautas lieka jūsų namų tinkle: programėlė siunčia užklausas tik jūsų tinklo adresams ir atmeta kitus. Niekas nepatenka nei mums, nei gamintojui. Įrenginio adresas saugomas jūsų nustatymuose telefone (ir faile naujam telefonui), bet nesiunčiamas namiškiams. Programėlė nesaugo to, ką išmatuoja įrenginys. iPhone ir iPad įrenginiuose iOS pirmiausia paklausia, ar programėlė gali naudoti jūsų vietinį tinklą. HomeWizard skaitiklis su nauju API (v2) duoda programėlei raktą, kai paspaudžiate skaitiklio mygtuką. Raktas saugomas tik saugioje telefono saugykloje (ne faile naujam telefonui); programėlė pirmiausia patikrina skaitiklio sertifikatą, o atjungus raktas ištrinamas. Kai kurie prietaisai supranta tik paprastą http be šifravimo. Android negali to leisti pagal adresą, todėl tai leista visai programėlei; pati programėlė tokias užklausas siunčia tik adresams jūsų tinkle.
+
 ## Kas palieka jūsų telefoną ir kodėl
 
 | Kas | Kodėl | Kam | Teisinis pagrindas (BDAR) | Kiek laiko |

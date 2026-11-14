@@ -22,6 +22,8 @@ Tot doar pe telefonul tău, chiar dacă îți conectezi familia: programul tău 
 
 **Camera** (doar la „Scanează codul”): aplicația folosește camera ca să citească codul de conectare al unui membru al familiei tale. Asta se întâmplă pe telefonul tău; nicio fotografie nu este salvată sau trimisă.
 
+**Conectarea contorului sau a invertorului** (doar dacă o faci tu, la Setări → Conectează contorul sau invertorul): aplicația caută în wifi-ul tău un contor HomeWizard P1 și apoi citește direct aparatul pe care îl conectezi (un contor HomeWizard P1, un invertor Fronius, KOSTAL, SMA, SolarEdge sau de altă marcă cu SunSpec ori o baterie de casă Victron sau Zendure), doar cât timp aplicația e deschisă. Acest trafic rămâne în rețeaua de acasă: aplicația trimite cereri doar la adrese din rețeaua ta și refuză alte adrese. Nimic nu ajunge la noi sau la producător. Adresa aparatului e în setările tale de pe telefon (și în fișierul pentru un telefon nou), dar nu ajunge la familia ta. Aplicația nu păstrează ce măsoară aparatul. Pe iPhone și iPad, iOS întreabă mai întâi dacă aplicația poate folosi rețeaua locală. Un contor HomeWizard cu noul API (v2) îi dă aplicației o cheie după ce apeși butonul contorului. Cheia stă doar în spațiul securizat al telefonului (nu în fișierul pentru un telefon nou); aplicația verifică întâi certificatul contorului, iar deconectarea șterge cheia. Unele aparate vorbesc doar http simplu, fără criptare. Android nu poate permite asta pe adresă, așa că e permis pentru toată aplicația; aplicația însăși trimite astfel de cereri doar către adrese din rețeaua ta.
+
 ## Ce pleacă de pe telefonul tău și de ce
 
 | Ce | De ce | Către cine | Temei juridic (RGPD) | Cât timp |

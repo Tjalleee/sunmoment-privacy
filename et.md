@@ -22,6 +22,8 @@ Samuti ainult sinu telefonis, ka siis, kui ühendad oma pere: sinu nädalakava, 
 
 **Kaamera** (ainult „Skanni kood“ puhul): äpp kasutab kaamerat, et lugeda pereliikme ühenduskoodi. See toimub sinu telefonis; ühtegi fotot ei salvestata ega saadeta.
 
+**Arvesti või inverteri ühendamine** (ainult kui teed seda ise, Seaded → Ühenda arvesti või inverter): äpp otsib sinu enda wifist HomeWizard P1 arvestit ja loeb seejärel otse seadet, mille ühendad (HomeWizard P1 arvesti, Froniuse, KOSTALi, SMA, SolarEdge’i või muu SunSpeciga marki inverter või Victroni või Zendure’i koduaku), ainult siis, kui äpp on avatud. See liiklus jääb sinu koduvõrku: äpp saadab päringuid ainult sinu enda võrgu aadressidele ja keeldub teistest. Midagi ei lähe meile ega tootjale. Seadme aadress on sinu seadetes telefonis (ka uue telefoni failis), kuid seda ei saadeta sinu perele. Äpp ei salvesta seda, mida seade mõõdab. iPhone’is ja iPadis küsib iOS kõigepealt, kas äpp tohib sinu kohalikku võrku kasutada. Uue API-ga (v2) HomeWizardi arvesti annab äpile võtme pärast seda, kui vajutad arvesti nuppu. Võti on ainult telefoni turvalises hoidlas (mitte uue telefoni failis); äpp kontrollib kõigepealt arvesti sertifikaati ja lahtiühendamine kustutab võtme. Mõni seade räägib ainult tavalist http-d ilma krüpteerimiseta. Android ei saa seda aadressi kaupa lubada, seega on see lubatud kogu rakendusele; rakendus ise saadab selliseid päringuid ainult sinu oma võrgu aadressidele.
+
 ## Mis lahkub sinu telefonist ja miks
 
 | Mis | Miks | Kellele | Õiguslik alus (GDPR) | Kui kaua |

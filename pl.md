@@ -22,6 +22,8 @@ Także tylko na twoim telefonie, nawet gdy połączysz domowników: twój plan t
 
 **Aparat** (tylko przy „Zeskanuj kod”): aplikacja używa aparatu, aby odczytać kod do połączenia od domownika. Dzieje się to na twoim telefonie; żadne zdjęcie nie jest zapisywane ani wysyłane.
 
+**Połączenie licznika lub falownika** (tylko jeśli zrobisz to sam, w Ustawienia → Połącz licznik lub falownik): aplikacja szuka w twoim wifi licznika HomeWizard P1, a potem bezpośrednio odczytuje połączone urządzenie (licznik HomeWizard P1, falownik Fronius, KOSTAL, SMA, SolarEdge lub innej marki z SunSpec albo magazyn energii Victron lub Zendure), tylko gdy aplikacja jest otwarta. Ten ruch zostaje w twojej sieci domowej: aplikacja wysyła zapytania tylko na adresy w twojej sieci i odrzuca inne adresy. Nic nie trafia do nas ani do producenta. Adres urządzenia jest w twoich ustawieniach w telefonie (także w pliku dla nowego telefonu), ale nie trafia do domowników. Aplikacja nie zapisuje tego, co mierzy urządzenie. Na iPhonie i iPadzie iOS najpierw pyta, czy aplikacja może używać sieci lokalnej. Licznik HomeWizard z nowym API (v2) daje aplikacji klucz po naciśnięciu przycisku na liczniku. Klucz jest tylko w bezpiecznym magazynie telefonu (nie w pliku dla nowego telefonu); aplikacja najpierw sprawdza certyfikat licznika, a rozłączenie usuwa klucz. Niektóre urządzenia mówią tylko zwykłym http, bez szyfrowania. Android nie potrafi zezwolić na to dla pojedynczych adresów, więc jest to dozwolone dla całej aplikacji; sama aplikacja wysyła takie zapytania tylko na adresy w twojej sieci.
+
 ## Co opuszcza twój telefon i dlaczego
 
 | Co | Dlaczego | Do kogo | Podstawa prawna (RODO) | Jak długo |

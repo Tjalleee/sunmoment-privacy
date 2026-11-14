@@ -22,6 +22,8 @@ Also only on your phone, even if you link your household: your week schedule, a 
 
 **Camera** (only with "Scan the code"): the app uses the camera to read a household member's pairing code. This happens on your phone; no photo is stored or sent.
 
+**Linking your meter or inverter** (only if you do it yourself, under Settings → Link your meter or inverter): the app looks on your own wifi for a HomeWizard P1 meter and then reads the device you link (a HomeWizard P1 meter, an inverter from Fronius, KOSTAL, SMA, SolarEdge or another brand with SunSpec, or a Victron or Zendure home battery) directly, only while the app is open. That traffic stays in your home network: the app only sends requests to addresses in your own network and refuses other addresses. Nothing goes to us or to the maker. The device's address is in your settings on your phone (also in the file for a new phone), but does not go to your household. The app does not keep what the device measures. On iPhone and iPad, iOS first asks whether the app may use your local network. A HomeWizard meter with the new API (v2) gives the app a key after you press the meter's button. That key is kept only in your phone's secure storage (not in the file for a new phone); the app first checks the meter's certificate, and unlinking deletes the key. Some devices only speak plain http, without encryption. Android cannot allow that per address, so it is allowed for the whole app; the app itself sends such requests only to addresses in your own network.
+
 ## What leaves your phone, and why
 
 | What | Why | To whom | Legal basis (GDPR) | How long |

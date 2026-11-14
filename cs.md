@@ -22,6 +22,8 @@ Také jen ve vašem telefonu, i když propojíte domácnost: váš týdenní roz
 
 **Fotoaparát** (jen u „Naskenovat kód“): aplikace používá fotoaparát ke čtení párovacího kódu od člena vaší domácnosti. Děje se to ve vašem telefonu; žádná fotka se neukládá ani neodesílá.
 
+**Propojení elektroměru nebo střídače** (jen když to uděláte sami, v Nastavení → Propojit elektroměr nebo střídač): aplikace hledá ve vaší wifi elektroměr HomeWizard P1 a potom přímo čte zařízení, které propojíte (elektroměr HomeWizard P1, střídač Fronius, KOSTAL, SMA, SolarEdge nebo jiné značky se SunSpec, nebo domácí baterii Victron či Zendure), jen dokud je aplikace otevřená. Tento provoz zůstává ve vaší domácí síti: aplikace posílá požadavky jen na adresy ve vaší vlastní síti a jiné adresy odmítá. Nic nejde k nám ani k výrobci. Adresa zařízení je ve vašem nastavení v telefonu (i v souboru pro nový telefon), ale neposílá se vaší domácnosti. Co zařízení naměří, aplikace neukládá. Na iPhonu a iPadu se iOS nejdřív zeptá, zda aplikace smí používat vaši místní síť. Elektroměr HomeWizard s novým API (v2) dá aplikaci klíč poté, co stisknete tlačítko na elektroměru. Klíč je jen v zabezpečeném úložišti telefonu (ne v souboru pro nový telefon); aplikace nejdřív ověří certifikát elektroměru a odpojení klíč smaže. Některá zařízení umí jen obyčejné http bez šifrování. Android to nedokáže povolit pro jednotlivé adresy, proto je to povoleno pro celou aplikaci; aplikace sama posílá takové požadavky jen na adresy ve vaší vlastní síti.
+
 ## Co opouští váš telefon a proč
 
 | Co | Proč | Komu | Právní základ (GDPR) | Jak dlouho |

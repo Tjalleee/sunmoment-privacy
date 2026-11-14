@@ -22,6 +22,8 @@ Ev halkınızı bağlasanız bile yalnızca telefonunuzda kalanlar: haftalık pr
 
 **Kamera** (yalnızca "Kodu tara" ile): uygulama, ev halkınızdan birinin bağlantı kodunu okumak için kamerayı kullanır. Bu, telefonunuzda gerçekleşir; hiçbir fotoğraf saklanmaz veya gönderilmez.
 
+**Sayaç veya inverter bağlama** (yalnızca bunu kendin yaparsan, Ayarlar → Sayacını veya inverterini bağla altında): uygulama kendi wifi'nde bir HomeWizard P1 sayacı arar, ardından bağladığın cihazı (HomeWizard P1 sayacı, Fronius, KOSTAL, SMA, SolarEdge veya SunSpec destekli başka bir marka inverter ya da Victron veya Zendure ev bataryası) doğrudan okur; yalnızca uygulama açıkken. Bu trafik ev ağında kalır: uygulama yalnızca kendi ağındaki adreslere istek gönderir ve diğer adresleri reddeder. Bize ya da üreticiye hiçbir şey gitmez. Cihazın adresi telefonundaki ayarlarda durur (yeni telefon dosyasında da), ama ev halkına gitmez. Uygulama cihazın ölçtüklerini saklamaz. iPhone ve iPad'de iOS önce uygulamanın yerel ağını kullanıp kullanamayacağını sorar. Yeni API'li (v2) bir HomeWizard sayacı, sayacın düğmesine bastıktan sonra uygulamaya bir anahtar verir. Bu anahtar yalnızca telefonunun güvenli deposunda durur (yeni telefon dosyasında değil); uygulama önce sayacın sertifikasını kontrol eder ve bağlantıyı kaldırmak anahtarı siler. Bazı cihazlar yalnızca şifresiz düz http konuşur. Android buna adres bazında izin veremediği için tüm uygulamaya izin verilir; uygulamanın kendisi bu tür istekleri yalnızca kendi ağınızdaki adreslere gönderir.
+
 ## Telefonunuzdan çıkanlar ve nedeni
 
 | Ne | Neden | Kime | Hukuki dayanak (GDPR) | Ne kadar süre |
