@@ -1,8 +1,12 @@
+---
+lang: nl
+---
+
 [Other languages / andere talen](index.md)
 
 # Gebruiksvoorwaarden SunMoment
 
-*Versie 1.3, 13 november 2026 (eerste versie: 4 november 2026)*
+*Versie 1.5, 17 november 2026 (eerste versie: 4 november 2026)*
 
 *Dit is een vertaling. De Engelse tekst is bindend (zie punt 14).*
 
@@ -29,8 +33,9 @@ of droger laat draaien, en hoe je de timer zet. Heb je zonnepanelen, dan
 gebruikt de app een weersverwachting en wat je invult over je panelen om te
 schatten wanneer je dak de meeste stroom levert. Zonder zonnepanelen gebruikt
 de app de goedkope uren van je stroomcontract: uren die je zelf invult, uren
-die de app voor sommige landen kent, of in Duitsland en Denemarken de
-uurprijzen van de stroombeurs. De app geeft ook tips, elk met een bron.
+die de app voor sommige landen kent, of de uurprijzen van de stroombeurs
+(in Duitsland, Luxemburg en Denemarken, en in een aantal plaatsen in Zweden
+en Noorwegen). De app geeft ook tips, elk met een bron.
 
 Alles wat de app laat zien, is een **schatting**. Een weersverwachting kan
 fout zijn, en je dak, je apparaten en je energiecontract kunnen anders zijn
@@ -52,7 +57,11 @@ informatie met een bron, geen belofte over jouw net of je rekening.
 ## 3. Wie de app mag gebruiken
 
 Je mag SunMoment gebruiken als je 18 jaar of ouder bent, of als een ouder of
-voogd het goedvindt. De app is bedoeld voor huishoudens.
+voogd het goedvindt. De app is bedoeld voor huishoudens. Werk je thuis
+(bijvoorbeeld als zzp'er), dan is de app gebruiken voor de apparaten in je
+huis gewoon thuisgebruik. Voor een bedrijfspand, een winkel of advies aan
+klanten is de app niet gemaakt: hij rekent met de apparaten en prijzen van
+een huishouden, en de bedragen zijn schattingen, geen boekhouding.
 
 ## 4. Proefperiode en kopen
 
@@ -63,7 +72,10 @@ voogd het goedvindt. De app is bedoeld voor huishoudens.
   dan 60 dagen; de app toont hoeveel dagen er nog over zijn. Op iPhone en iPad zegt de app vóór de start hoe
   lang de proef duurt, wat daarna dichtgaat en wat het kost.
 - Heb je zonnepanelen, dan blijft daarna het overzicht van vandaag gratis.
-  Zonder zonnepanelen blijft er na de proef niets gratis. De rest koop je met een
+  Zonder zonnepanelen blijven de goedkope uren van vandaag gratis (met
+  uurprijzen ook die van morgen, zodra ze bekend zijn). Zonder zonnepanelen
+  en met één prijs de hele dag is er niets af te sluiten: alles blijft
+  gratis en er is geen proef. De rest koop je met een
   **eenmalige aankoop** in de app. Het is geen abonnement: je betaalt één
   keer.
 - De prijs staat in de winkel (Google Play of de App Store) en in de app
@@ -104,7 +116,9 @@ advies van de app nooit op een onveilige manier.
     mail van Google Play (GPA.…). Wij betalen het hele bedrag terug via
     Google Play, zo snel als we kunnen en uiterlijk binnen 14 dagen na je
     bericht. Je kunt het ook aan Google vragen, volgens het
-    [terugbetaalbeleid van Google Play](https://support.google.com/googleplay/answer/2479637).
+    [terugbetaalbeleid van Google Play](https://support.google.com/googleplay/answer/2479637):
+    volgens Google kan dat in de eerste 48 uur na de aankoop, daarna
+    verwijst Google naar de ontwikkelaar (naar ons).
   - App Store (iPhone en iPad): Apple regelt de betaling en de
     terugbetaling; wij kunnen een aankoop in de App Store niet zelf
     terugbetalen. Vraag het aan via
@@ -131,8 +145,9 @@ advies van de app nooit op een onveilige manier.
   de app door een wijziging duidelijk slechter voor jou, dan mag je de
   koopovereenkomst beëindigen en betalen we je terug volgens de wet.
 - De app hangt af van gratis data: weerdata van de Duitse weerdienst DWD
-  (rechtstreeks en via de zelfstandige dienst Bright Sky), en in Duitsland
-  en Denemarken de prijzen en nettarieven die Energinet publiceert. Stopt
+  (rechtstreeks en via de zelfstandige dienst Bright Sky), de uurprijzen die
+  Energinet publiceert (voor Duitsland, Luxemburg, Denemarken en een aantal
+  plaatsen in Zweden en Noorwegen) en de Deense nettarieven van Energinet. Stopt
   een bron, dan proberen we een vervanging te vinden.
 
 ## 8. Hoe je de app gebruikt
@@ -183,7 +198,7 @@ contract dat je moet tekenen.
 De app, de teksten en het ontwerp zijn van Gala Apps of van wie ze aan ons in
 licentie gaf. Je mag de app gebruiken voor jezelf en je huishouden. De
 open-source-licenties en databronnen staan in de app onder Instellingen →
-Hulp en info → Privacy & bronnen.
+Hulp en info → Privacy en bronnen.
 
 ## 12. Wijzigingen van deze voorwaarden
 

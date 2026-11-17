@@ -1,8 +1,12 @@
+---
+lang: en
+---
+
 [Other languages / andere talen](index.md)
 
 # SunMoment Terms of Use
 
-*Version 1.3, 13 November 2026 (first version: 4 November 2026)*
+*Version 1.5, 17 November 2026 (first version: 4 November 2026)*
 
 These terms apply when you use the SunMoment app. They are short, because the
 app is simple. If anything here conflicts with the law that protects you as a
@@ -27,8 +31,9 @@ dishwasher or dryer, and how to set their timer. If you have solar panels, it
 uses a weather forecast and the details you enter about your panels to
 estimate when your roof produces the most power. Without solar panels, it
 uses the cheap hours of your electricity contract: hours you enter yourself,
-hours the app knows for some countries, or, in Germany and Denmark, the
-hourly prices of the power exchange. It also gives tips, each with its
+hours the app knows for some countries, or the hourly prices of the power
+exchange (in Germany, Luxembourg and Denmark, and in some towns in Sweden
+and Norway). It also gives tips, each with its
 source.
 
 Everything the app shows is an **estimate**. Weather forecasts can be wrong,
@@ -51,7 +56,11 @@ information with its source, not a promise about your grid or your bill.
 ## 3. Who can use it
 
 You can use SunMoment if you are 18 or older, or if a parent or guardian
-allows it. The app is meant for private households.
+allows it. The app is meant for private households. If you work from home
+(for example as a freelancer or sole trader), using it for the appliances in
+your home is household use. The app is not made for business premises, a
+shop or advice to customers: it counts with a household's appliances and
+prices, and its amounts are estimates, not bookkeeping.
 
 ## 4. Free trial and purchase
 
@@ -61,8 +70,11 @@ allows it. The app is meant for private households.
   help you on 14 days (sun, cheap hours or a tip), but no longer than 60
   days; the app shows how many days are left. On iPhone and iPad, the app tells you before the
   trial starts how long it lasts, what closes afterwards and the price.
-- After that, today's overview stays free if you have solar panels;
-  without solar panels nothing stays free. The rest is unlocked with a
+- After that, today's overview stays free if you have solar panels.
+  Without solar panels, the cheap hours of today stay free (with hourly
+  prices also those of tomorrow, once known). Without solar panels and with
+  one price all day there is nothing to lock: everything stays free and
+  there is no trial. The rest is unlocked with a
   **one-time purchase** in the app. It is not a subscription: you pay once.
 - The price is shown in the store (Google Play or the App Store) and in the
   app before you buy, including VAT where it applies. The store may show a
@@ -103,7 +115,9 @@ unsafe.
     email (GPA.…). We refund the full amount through Google Play, as soon as
     we can and no later than 14 days after your message. You can also ask
     Google, under
-    [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637).
+    [Google Play's refund policy](https://support.google.com/googleplay/answer/2479637):
+    Google says it may refund within 48 hours of the purchase, and after
+    that sends you to the developer (to us).
   - App Store (iPhone and iPad): Apple handles the payment and the refund;
     we cannot refund an App Store purchase ourselves. Ask at
     [reportaproblem.apple.com](https://reportaproblem.apple.com), as Apple
@@ -127,8 +141,9 @@ unsafe.
   worse for you, you may end the purchase agreement and we will refund you in
   line with the law.
 - The app depends on free data: weather data from the German weather
-  service DWD (directly and via the independent service Bright Sky), and in
-  Germany and Denmark the prices and grid tariffs that Energinet publishes.
+  service DWD (directly and via the independent service Bright Sky), the
+  hourly prices that Energinet publishes (for Germany, Luxembourg, Denmark
+  and some towns in Sweden and Norway) and Energinet's Danish grid tariffs.
   If a source stops, we will try to replace it.
 
 ## 8. Your use of the app
