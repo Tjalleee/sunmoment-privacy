@@ -141,7 +141,7 @@ SunMoment läuft daneben, ohne Anmeldung. Deine Wechselrichter-App zeigt, was wa
 - Im selben Ort umgezogen? Dann ändere unter Einstellungen → Ort und Solaranlage deine Module: die Anzahl, die Richtung und die Neigung. Leere "Ertrag letztes Jahr". Trag ihn wieder ein, wenn du ein ganzes Jahr mit diesem Dach hast.
 - Module dazubekommen? Ändere die Anzahl. Der Ertrag vom letzten Jahr gehört dann zu deinen alten Modulen und zählt nicht mehr mit, bis du einen Ertrag für die Module von jetzt einträgst.
 - Eine neue Waschmaschine, Spülmaschine oder ein neuer Trockner? Ändere unter Einstellungen → Geräte, wie viel Strom ein Durchgang braucht, wenn du es weißt. Frühere Durchgänge zählen weiter so, wie sie damals gezählt haben.
-- Dein Logbuch und was du gespart hast, bleiben erhalten.
+- Dein Protokoll und was du gespart hast, bleiben erhalten.
 
 ## Wie stelle ich den Timer meiner Maschine?
 

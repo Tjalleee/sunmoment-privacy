@@ -131,7 +131,7 @@ SunMoment works alongside it, with no login. Your inverter app shows what happen
 
 ## I don't know how many panels I have
 
-- Choose "Don't know" during setup. The app then uses 10 panels (2 for a balcony set) and says the plan is an estimate.
+- Choose "Don't know" during setup. The app then uses 10 panels (2 for a balcony kit) and says the plan is an estimate.
 - Found out later? Change it under Settings → Place and panels. The watts per panel are on your quote (for example 430 watts).
 - Do the panels belong to your landlord? If their power comes in through your own meter, the app works the same. Ask your landlord how many panels there are. Does their power go to the building's meter, for example for the hallway or the lift? Then you do not use it yourself. Answer "No" to "Do you have solar panels?".
 
